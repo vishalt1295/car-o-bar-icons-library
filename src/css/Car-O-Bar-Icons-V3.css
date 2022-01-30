@@ -1,0 +1,6209 @@
+@font-face {
+  font-family: "Car-O-Bar-Icons";
+  src: url("../fonts/Car-O-Bar-Icons.eot?m96q4o");
+  src: url("../fonts/Car-O-Bar-Icons.eot?m96q4o#iefix") format("embedded-opentype"),
+    url("../fonts/Car-O-Bar-Icons.ttf?m96q4o") format("truetype"),
+    url("../fonts/Car-O-Bar-Icons.woff?m96q4o") format("woff"),
+    url("../fonts/Car-O-Bar-Icons.svg?m96q4o#Car-O-Bar-Icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="-duotone"],
+[class*="-duotone"],
+[class^="-fill"],
+[class*="-fill"],
+[class^="-outline"],
+[class*="-outline"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "Car-O-Bar-Icons" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* START OF IMPORTANT LINES OF CSS */
+
+[class^="-duotone"]:before,
+[class*="-duotone"]:before {
+  position: absolute;
+}
+
+[class^="-duotone"]:before,[class*="-duotone"]:before {
+  opacity: 1;
+  color: inherit;
+}
+
+[class^="-duotone"]:after,[class*="-duotone"]:after {
+  opacity: 0.4;
+}
+
+/* END OF IMPORTANT LINES OF CODE */
+
+
+.cobi-add-circle-duotone:before {
+  content: "\e900";
+}
+.cobi-add-circle-duotone:after {
+  content: "\e901";
+}
+.cobi-add-circle-fill:before {
+  content: "\e902";
+}
+.cobi-add-circle-outline:before {
+  content: "\e903";
+}
+.cobi-add-duotone:before {
+  content: "\e904";
+}
+.cobi-add-duotone:after {
+  content: "\e905";
+}
+.cobi-add-fill:before {
+  content: "\e906";
+}
+.cobi-add-outline:before {
+  content: "\e907";
+}
+.cobi-add-square-duotone:before {
+  content: "\e908";
+}
+.cobi-add-square-duotone:after {
+  content: "\e909";
+}
+.cobi-add-square-fill:before {
+  content: "\e90a";
+}
+.cobi-add-square-outline:before {
+  content: "\e90b";
+}
+.cobi-android-duotone:before {
+  content: "\e90c";
+}
+.cobi-android-duotone:after {
+  content: "\e90d";
+}
+.cobi-android-fill:before {
+  content: "\e90e";
+}
+.cobi-android-outline:before {
+  content: "\e90f";
+}
+.cobi-apple-duotone:before {
+  content: "\e910";
+}
+.cobi-apple-duotone:after {
+  content: "\e911";
+}
+.cobi-apple-fill:before {
+  content: "\e912";
+}
+.cobi-apple-outline:before {
+  content: "\e913";
+}
+.cobi-archive-1-duotone:before {
+  content: "\e914";
+}
+.cobi-archive-1-duotone:after {
+  content: "\e915";
+}
+.cobi-archive-1-fill:before {
+  content: "\e916";
+}
+.cobi-archive-1-outline:before {
+  content: "\e917";
+}
+.cobi-archive-add-duotone:before {
+  content: "\e918";
+}
+.cobi-archive-add-duotone:after {
+  content: "\e919";
+}
+.cobi-archive-add-fill:before {
+  content: "\e91a";
+}
+.cobi-archive-add-outline:before {
+  content: "\e91b";
+}
+.cobi-archive-book-duotone:before {
+  content: "\e91c";
+}
+.cobi-archive-book-duotone:after {
+  content: "\e91d";
+}
+.cobi-archive-book-fill:before {
+  content: "\e91e";
+}
+.cobi-archive-book-outline:before {
+  content: "\e91f";
+}
+.cobi-archive-duotone:before {
+  content: "\e920";
+}
+.cobi-archive-duotone:after {
+  content: "\e921";
+}
+.cobi-archive-fill:before {
+  content: "\e922";
+}
+.cobi-archive-minus-duotone:before {
+  content: "\e923";
+}
+.cobi-archive-minus-duotone:after {
+  content: "\e924";
+}
+.cobi-archive-minus-fill:before {
+  content: "\e925";
+}
+.cobi-archive-minus-outline:before {
+  content: "\e926";
+}
+.cobi-archive-outline:before {
+  content: "\e927";
+}
+.cobi-archive-slash-duotone:before {
+  content: "\e928";
+}
+.cobi-archive-slash-duotone:after {
+  content: "\e929";
+}
+.cobi-archive-slash-fill:before {
+  content: "\e92a";
+}
+.cobi-archive-slash-outline:before {
+  content: "\e92b";
+}
+.cobi-archive-tick-duotone:before {
+  content: "\e92c";
+}
+.cobi-archive-tick-duotone:after {
+  content: "\e92d";
+}
+.cobi-archive-tick-fill:before {
+  content: "\e92e";
+}
+.cobi-archive-tick-outline:before {
+  content: "\e92f";
+}
+.cobi-arrange-circle-2-duotone:before {
+  content: "\e930";
+}
+.cobi-arrange-circle-2-duotone:after {
+  content: "\e931";
+}
+.cobi-arrange-circle-2-fill:before {
+  content: "\e932";
+}
+.cobi-arrange-circle-2-outline:before {
+  content: "\e933";
+}
+.cobi-arrange-circle-duotone:before {
+  content: "\e934";
+}
+.cobi-arrange-circle-duotone:after {
+  content: "\e935";
+}
+.cobi-arrange-circle-fill:before {
+  content: "\e936";
+}
+.cobi-arrange-circle-outline:before {
+  content: "\e937";
+}
+.cobi-arrange-square-2-duotone:before {
+  content: "\e938";
+}
+.cobi-arrange-square-2-duotone:after {
+  content: "\e939";
+}
+.cobi-arrange-square-2-fill:before {
+  content: "\e93a";
+}
+.cobi-arrange-square-2-outline:before {
+  content: "\e93b";
+}
+.cobi-arrange-square-duotone:before {
+  content: "\e93c";
+}
+.cobi-arrange-square-duotone:after {
+  content: "\e93d";
+}
+.cobi-arrange-square-fill:before {
+  content: "\e93e";
+}
+.cobi-arrange-square-outline:before {
+  content: "\e93f";
+}
+.cobi-arrow-2-duotone:before {
+  content: "\e940";
+}
+.cobi-arrow-2-duotone:after {
+  content: "\e941";
+}
+.cobi-arrow-3-duotone:before {
+  content: "\e942";
+}
+.cobi-arrow-3-duotone:after {
+  content: "\e943";
+}
+.cobi-arrow-circle-down-1-duotone:before {
+  content: "\e944";
+}
+.cobi-arrow-circle-down-1-duotone:after {
+  content: "\e945";
+}
+.cobi-arrow-circle-down-1-fill:before {
+  content: "\e946";
+}
+.cobi-arrow-circle-down-1-outline:before {
+  content: "\e947";
+}
+.cobi-arrow-circle-down-duotone:before {
+  content: "\e948";
+}
+.cobi-arrow-circle-down-duotone:after {
+  content: "\e949";
+}
+.cobi-arrow-circle-down-fill:before {
+  content: "\e94a";
+}
+.cobi-arrow-circle-down-outline:before {
+  content: "\e94b";
+}
+.cobi-arrow-circle-left-1-duotone:before {
+  content: "\e94c";
+}
+.cobi-arrow-circle-left-1-duotone:after {
+  content: "\e94d";
+}
+.cobi-arrow-circle-left-1-fill:before {
+  content: "\e94e";
+}
+.cobi-arrow-circle-left-1-outline:before {
+  content: "\e94f";
+}
+.cobi-arrow-circle-left-duotone:before {
+  content: "\e950";
+}
+.cobi-arrow-circle-left-duotone:after {
+  content: "\e951";
+}
+.cobi-arrow-circle-left-fill:before {
+  content: "\e952";
+}
+.cobi-arrow-circle-left-outline:before {
+  content: "\e953";
+}
+.cobi-arrow-circle-right-1-duotone:before {
+  content: "\e954";
+}
+.cobi-arrow-circle-right-1-duotone:after {
+  content: "\e955";
+}
+.cobi-arrow-circle-right-1-fill:before {
+  content: "\e956";
+}
+.cobi-arrow-circle-right-1-outline:before {
+  content: "\e957";
+}
+.cobi-arrow-circle-right-duotone:before {
+  content: "\e958";
+}
+.cobi-arrow-circle-right-duotone:after {
+  content: "\e959";
+}
+.cobi-arrow-circle-right-fill:before {
+  content: "\e95a";
+}
+.cobi-arrow-circle-right-outline:before {
+  content: "\e95b";
+}
+.cobi-arrow-circle-up-1-duotone:before {
+  content: "\e95c";
+}
+.cobi-arrow-circle-up-1-duotone:after {
+  content: "\e95d";
+}
+.cobi-arrow-circle-up-1-fill:before {
+  content: "\e95e";
+}
+.cobi-arrow-circle-up-1-outline:before {
+  content: "\e95f";
+}
+.cobi-arrow-circle-up-duotone:before {
+  content: "\e960";
+}
+.cobi-arrow-circle-up-duotone:after {
+  content: "\e961";
+}
+.cobi-arrow-circle-up-fill:before {
+  content: "\e962";
+}
+.cobi-arrow-circle-up-outline:before {
+  content: "\e963";
+}
+.cobi-arrow-down-1-duotone:before {
+  content: "\e964";
+}
+.cobi-arrow-down-1-duotone:after {
+  content: "\e965";
+}
+.cobi-arrow-down-1-fill:before {
+  content: "\e966";
+}
+.cobi-arrow-down-1-outline:before {
+  content: "\e967";
+}
+.cobi-arrow-down-2-outline:before {
+  content: "\e968";
+}
+.cobi-arrow-down-duotone:before {
+  content: "\e969";
+}
+.cobi-arrow-down-duotone:after {
+  content: "\e96a";
+}
+.cobi-arrow-down-fill:before {
+  content: "\e96b";
+}
+.cobi-arrow-down-outline:before {
+  content: "\e96c";
+}
+.cobi-arrow-left-1-duotone:before {
+  content: "\e96d";
+}
+.cobi-arrow-left-1-duotone:after {
+  content: "\e96e";
+}
+.cobi-arrow-left-1-fill:before {
+  content: "\e96f";
+}
+.cobi-arrow-left-1-outline:before {
+  content: "\e970";
+}
+.cobi-arrow-left-2-outline:before {
+  content: "\e971";
+}
+.cobi-arrow-left-duotone:before {
+  content: "\e972";
+}
+.cobi-arrow-left-duotone:after {
+  content: "\e973";
+}
+.cobi-arrow-left-fill:before {
+  content: "\e974";
+}
+.cobi-arrow-left-outline:before {
+  content: "\e975";
+}
+.cobi-arrow-left-right-outline:before {
+  content: "\e976";
+}
+.cobi-arrow-right-1-duotone:before {
+  content: "\e977";
+}
+.cobi-arrow-right-1-duotone:after {
+  content: "\e978";
+}
+.cobi-arrow-right-1-fill:before {
+  content: "\e979";
+}
+.cobi-arrow-right-1-outline:before {
+  content: "\e97a";
+}
+.cobi-arrow-right-2-outline:before {
+  content: "\e97b";
+}
+.cobi-arrow-right-duotone:before {
+  content: "\e97c";
+}
+.cobi-arrow-right-duotone:after {
+  content: "\e97d";
+}
+.cobi-arrow-right-fill:before {
+  content: "\e97e";
+}
+.cobi-arrow-right-outline:before {
+  content: "\e97f";
+}
+.cobi-arrow-square-down-1-fill:before {
+  content: "\e980";
+}
+.cobi-arrow-square-down-2-duotone:before {
+  content: "\e981";
+}
+.cobi-arrow-square-down-2-duotone:after {
+  content: "\e982";
+}
+.cobi-arrow-square-down-duotone:before {
+  content: "\e983";
+}
+.cobi-arrow-square-down-duotone:after {
+  content: "\e984";
+}
+.cobi-arrow-square-down-fill:before {
+  content: "\e985";
+}
+.cobi-arrow-square-down-outline:before {
+  content: "\e986";
+}
+.cobi-arrow-square-left-1-duotone:before {
+  content: "\e987";
+}
+.cobi-arrow-square-left-1-duotone:after {
+  content: "\e988";
+}
+.cobi-arrow-square-left-1-fill:before {
+  content: "\e989";
+}
+.cobi-arrow-square-left-duotone:before {
+  content: "\e98a";
+}
+.cobi-arrow-square-left-duotone:after {
+  content: "\e98b";
+}
+.cobi-arrow-square-left-fill:before {
+  content: "\e98c";
+}
+.cobi-arrow-square-left-outline:before {
+  content: "\e98d";
+}
+.cobi-arrow-square-right-1-fill:before {
+  content: "\e98e";
+}
+.cobi-arrow-square-right-2-duotone:before {
+  content: "\e98f";
+}
+.cobi-arrow-square-right-2-duotone:after {
+  content: "\e990";
+}
+.cobi-arrow-square-right-duotone:before {
+  content: "\e991";
+}
+.cobi-arrow-square-right-duotone:after {
+  content: "\e992";
+}
+.cobi-arrow-square-right-fill:before {
+  content: "\e993";
+}
+.cobi-arrow-square-right-outline:before {
+  content: "\e994";
+}
+.cobi-arrow-square-up-1-duotone:before {
+  content: "\e995";
+}
+.cobi-arrow-square-up-1-duotone:after {
+  content: "\e996";
+}
+.cobi-arrow-square-up-1-fill:before {
+  content: "\e997";
+}
+.cobi-arrow-square-up-duotone:before {
+  content: "\e998";
+}
+.cobi-arrow-square-up-duotone:after {
+  content: "\e999";
+}
+.cobi-arrow-square-up-fill:before {
+  content: "\e99a";
+}
+.cobi-arrow-square-up-outline:before {
+  content: "\e99b";
+}
+.cobi-arrow-swap-duotone:before {
+  content: "\e99c";
+}
+.cobi-arrow-swap-duotone:after {
+  content: "\e99d";
+}
+.cobi-arrow-swap-fill:before {
+  content: "\e99e";
+}
+.cobi-arrow-swap-horizontal-duotone:before {
+  content: "\e99f";
+}
+.cobi-arrow-swap-horizontal-duotone:after {
+  content: "\e9a0";
+}
+.cobi-arrow-swap-horizontal-fill:before {
+  content: "\e9a1";
+}
+.cobi-arrow-swap-horizontal-outline:before {
+  content: "\e9a2";
+}
+.cobi-arrow-swap-outline:before {
+  content: "\e9a3";
+}
+.cobi-arrow-up-1-duotone:before {
+  content: "\e9a4";
+}
+.cobi-arrow-up-1-duotone:after {
+  content: "\e9a5";
+}
+.cobi-arrow-up-1-fill:before {
+  content: "\e9a6";
+}
+.cobi-arrow-up-1-outline:before {
+  content: "\e9a7";
+}
+.cobi-arrow-up-2-outline:before {
+  content: "\e9a8";
+}
+.cobi-arrow-up-down-outline:before {
+  content: "\e9a9";
+}
+.cobi-arrow-up-duotone:before {
+  content: "\e9aa";
+}
+.cobi-arrow-up-duotone:after {
+  content: "\e9ab";
+}
+.cobi-arrow-up-fill:before {
+  content: "\e9ac";
+}
+.cobi-arrow-up-outline:before {
+  content: "\e9ad";
+}
+.cobi-award-duotone:before {
+  content: "\e9ae";
+}
+.cobi-award-duotone:after {
+  content: "\e9af";
+}
+.cobi-award-fill:before {
+  content: "\e9b0";
+}
+.cobi-award-outline:before {
+  content: "\e9b1";
+}
+.cobi-back-square-duotone:before {
+  content: "\e9b2";
+}
+.cobi-back-square-duotone:after {
+  content: "\e9b3";
+}
+.cobi-back-square-fill:before {
+  content: "\e9b4";
+}
+.cobi-back-square-outline:before {
+  content: "\e9b5";
+}
+.cobi-bag-2-duotone:before {
+  content: "\e9b6";
+}
+.cobi-bag-2-duotone:after {
+  content: "\e9b7";
+}
+.cobi-bag-2-fill:before {
+  content: "\e9b8";
+}
+.cobi-bag-2-outline:before {
+  content: "\e9b9";
+}
+.cobi-bag-cross-1-duotone:before {
+  content: "\e9ba";
+}
+.cobi-bag-cross-1-duotone:after {
+  content: "\e9bb";
+}
+.cobi-bag-cross-1-fill:before {
+  content: "\e9bc";
+}
+.cobi-bag-cross-1-outline:before {
+  content: "\e9bd";
+}
+.cobi-bag-cross-duotone:before {
+  content: "\e9be";
+}
+.cobi-bag-cross-duotone:after {
+  content: "\e9bf";
+}
+.cobi-bag-cross-fill:before {
+  content: "\e9c0";
+}
+.cobi-bag-cross-outline:before {
+  content: "\e9c1";
+}
+.cobi-bag-duotone:before {
+  content: "\e9c2";
+}
+.cobi-bag-duotone:after {
+  content: "\e9c3";
+}
+.cobi-bag-fill:before {
+  content: "\e9c4";
+}
+.cobi-bag-happy-duotone:before {
+  content: "\e9c5";
+}
+.cobi-bag-happy-duotone:after {
+  content: "\e9c6";
+}
+.cobi-bag-happy-fill:before {
+  content: "\e9c7";
+}
+.cobi-bag-happy-outline:before {
+  content: "\e9c8";
+}
+.cobi-bag-outline:before {
+  content: "\e9c9";
+}
+.cobi-bag-tick-2-duotone:before {
+  content: "\e9ca";
+}
+.cobi-bag-tick-2-duotone:after {
+  content: "\e9cb";
+}
+.cobi-bag-tick-2-fill:before {
+  content: "\e9cc";
+}
+.cobi-bag-tick-2-outline:before {
+  content: "\e9cd";
+}
+.cobi-bag-tick-duotone:before {
+  content: "\e9ce";
+}
+.cobi-bag-tick-duotone:after {
+  content: "\e9cf";
+}
+.cobi-bag-tick-fill:before {
+  content: "\e9d0";
+}
+.cobi-bag-tick-outline:before {
+  content: "\e9d1";
+}
+.cobi-bag-timer-duotone:before {
+  content: "\e9d2";
+}
+.cobi-bag-timer-duotone:after {
+  content: "\e9d3";
+}
+.cobi-bag-timer-fill:before {
+  content: "\e9d4";
+}
+.cobi-bag-timer-outline:before {
+  content: "\e9d5";
+}
+.cobi-bank-duotone:before {
+  content: "\e9d6";
+}
+.cobi-bank-duotone:after {
+  content: "\e9d7";
+}
+.cobi-bank-fill:before {
+  content: "\e9d8";
+}
+.cobi-bank-outline:before {
+  content: "\e9d9";
+}
+.cobi-barcode-duotone:before {
+  content: "\e9da";
+}
+.cobi-barcode-duotone:after {
+  content: "\e9db";
+}
+.cobi-barcode-fill:before {
+  content: "\e9dc";
+}
+.cobi-barcode-outline:before {
+  content: "\e9dd";
+}
+.cobi-bhim-1-fill:before {
+  content: "\e9de";
+}
+.cobi-bhim-1-fill:after {
+  content: "\e9df";
+}
+.cobi-bhim-fill:before {
+  content: "\e9e0";
+}
+.cobi-bill-duotone:before {
+  content: "\e9e1";
+}
+.cobi-bill-duotone:after {
+  content: "\e9e2";
+}
+.cobi-bill-fill:before {
+  content: "\e9e3";
+}
+.cobi-bill-outline:before {
+  content: "\e9e4";
+}
+.cobi-book-1-duotone:before {
+  content: "\e9e5";
+}
+.cobi-book-1-duotone:after {
+  content: "\e9e6";
+}
+.cobi-book-1-fill:before {
+  content: "\e9e7";
+}
+.cobi-book-1-outline:before {
+  content: "\e9e8";
+}
+.cobi-book-duotone:before {
+  content: "\e9e9";
+}
+.cobi-book-duotone:after {
+  content: "\e9ea";
+}
+.cobi-book-fill:before {
+  content: "\e9eb";
+}
+.cobi-bookmark-2-duotone:before {
+  content: "\e9ec";
+}
+.cobi-bookmark-2-duotone:after {
+  content: "\e9ed";
+}
+.cobi-bookmark-2-fill:before {
+  content: "\e9ee";
+}
+.cobi-bookmark-2-outline:before {
+  content: "\e9ef";
+}
+.cobi-bookmark-duotone:before {
+  content: "\e9f0";
+}
+.cobi-bookmark-duotone:after {
+  content: "\e9f1";
+}
+.cobi-bookmark-fill:before {
+  content: "\e9f2";
+}
+.cobi-bookmark-outline:before {
+  content: "\e9f3";
+}
+.cobi-book-outline:before {
+  content: "\e9f4";
+}
+.cobi-book-saved-duotone:before {
+  content: "\e9f5";
+}
+.cobi-book-saved-duotone:after {
+  content: "\e9f6";
+}
+.cobi-book-saved-fill:before {
+  content: "\e9f7";
+}
+.cobi-book-saved-outline:before {
+  content: "\e9f8";
+}
+.cobi-book-square-duotone:before {
+  content: "\e9f9";
+}
+.cobi-book-square-duotone:after {
+  content: "\e9fa";
+}
+.cobi-book-square-fill:before {
+  content: "\e9fb";
+}
+.cobi-book-square-outline:before {
+  content: "\e9fc";
+}
+.cobi-box-duotone:before {
+  content: "\e9fd";
+}
+.cobi-box-duotone:after {
+  content: "\e9fe";
+}
+.cobi-box-fill:before {
+  content: "\e9ff";
+}
+.cobi-box-outline:before {
+  content: "\ea00";
+}
+.cobi-briefcase-duotone:before {
+  content: "\ea01";
+}
+.cobi-briefcase-duotone:after {
+  content: "\ea02";
+}
+.cobi-briefcase-fill:before {
+  content: "\ea03";
+}
+.cobi-briefcase-outline:before {
+  content: "\ea04";
+}
+.cobi-brifecase-cross-duotone:before {
+  content: "\ea05";
+}
+.cobi-brifecase-cross-duotone:after {
+  content: "\ea06";
+}
+.cobi-brifecase-cross-fill:before {
+  content: "\ea07";
+}
+.cobi-brifecase-cross-outline:before {
+  content: "\ea08";
+}
+.cobi-brifecase-tick-duotone:before {
+  content: "\ea09";
+}
+.cobi-brifecase-tick-duotone:after {
+  content: "\ea0a";
+}
+.cobi-brifecase-tick-fill:before {
+  content: "\ea0b";
+}
+.cobi-brifecase-tick-outline:before {
+  content: "\ea0c";
+}
+.cobi-brifecase-timer-duotone:before {
+  content: "\ea0d";
+}
+.cobi-brifecase-timer-duotone:after {
+  content: "\ea0e";
+}
+.cobi-brifecase-timer-fill:before {
+  content: "\ea0f";
+}
+.cobi-brifecase-timer-outline:before {
+  content: "\ea10";
+}
+.cobi-building-1-duotone:before {
+  content: "\ea11";
+}
+.cobi-building-1-duotone:after {
+  content: "\ea12";
+}
+.cobi-building-1-fill:before {
+  content: "\ea13";
+}
+.cobi-building-1-outline:before {
+  content: "\ea14";
+}
+.cobi-building-2-duotone:before {
+  content: "\ea15";
+}
+.cobi-building-2-duotone:after {
+  content: "\ea16";
+}
+.cobi-building-2-fill:before {
+  content: "\ea17";
+}
+.cobi-building-2-outline:before {
+  content: "\ea18";
+}
+.cobi-building-3-duotone:before {
+  content: "\ea19";
+}
+.cobi-building-3-duotone:after {
+  content: "\ea1a";
+}
+.cobi-building-3-fill:before {
+  content: "\ea1b";
+}
+.cobi-building-3-outline:before {
+  content: "\ea1c";
+}
+.cobi-building-4-duotone:before {
+  content: "\ea1d";
+}
+.cobi-building-4-duotone:after {
+  content: "\ea1e";
+
+  opacity: 0.6;
+}
+.cobi-building-4-duotone .path3:before {
+  content: "\ea1f";
+}
+.cobi-building-4-fill:before {
+  content: "\ea20";
+}
+.cobi-building-4-outline:before {
+  content: "\ea21";
+}
+.cobi-building-5-duotone:before {
+  content: "\ea22";
+}
+.cobi-building-5-duotone:after {
+  content: "\ea23";
+}
+.cobi-building-5-fill:before {
+  content: "\ea24";
+}
+.cobi-building-5-outline:before {
+  content: "\ea25";
+}
+.cobi-building-duotone:before {
+  content: "\ea26";
+}
+.cobi-building-duotone:after {
+  content: "\ea27";
+
+  opacity: 0.6;
+}
+.cobi-building-duotone .path3:before {
+  content: "\ea28";
+}
+.cobi-building-fill:before {
+  content: "\ea29";
+}
+.cobi-building-outline:before {
+  content: "\ea2a";
+}
+.cobi-bus-duotone:before {
+  content: "\ea2b";
+}
+.cobi-bus-duotone:after {
+  content: "\ea2c";
+}
+.cobi-bus-fill:before {
+  content: "\ea2d";
+}
+.cobi-bus-outline:before {
+  content: "\ea2e";
+}
+.cobi-calculator-duotone:before {
+  content: "\ea2f";
+}
+.cobi-calculator-duotone:after {
+  content: "\ea30";
+}
+.cobi-calculator-fill:before {
+  content: "\ea31";
+}
+.cobi-calculator-outline:before {
+  content: "\ea32";
+}
+.cobi-calendar-1-duotone:before {
+  content: "\ea33";
+}
+.cobi-calendar-1-duotone:after {
+  content: "\ea34";
+}
+.cobi-calendar-1-fill:before {
+  content: "\ea35";
+}
+.cobi-calendar-1-outline:before {
+  content: "\ea36";
+}
+.cobi-calendar-2-duotone:before {
+  content: "\ea37";
+}
+.cobi-calendar-2-duotone:after {
+  content: "\ea38";
+}
+.cobi-calendar-2-fill:before {
+  content: "\ea39";
+}
+.cobi-calendar-2-outline:before {
+  content: "\ea3a";
+}
+.cobi-calendar-add-duotone:before {
+  content: "\ea3b";
+}
+.cobi-calendar-add-duotone:after {
+  content: "\ea3c";
+}
+.cobi-calendar-add-fill:before {
+  content: "\ea3d";
+}
+.cobi-calendar-add-outline:before {
+  content: "\ea3e";
+}
+.cobi-calendar-circle-duotone:before {
+  content: "\ea3f";
+}
+.cobi-calendar-circle-duotone:after {
+  content: "\ea40";
+}
+.cobi-calendar-circle-fill:before {
+  content: "\ea41";
+}
+.cobi-calendar-circle-outline:before {
+  content: "\ea42";
+}
+.cobi-calendar-duotone:before {
+  content: "\ea43";
+}
+.cobi-calendar-duotone:after {
+  content: "\ea44";
+}
+.cobi-calendar-edit-duotone:before {
+  content: "\ea45";
+}
+.cobi-calendar-edit-duotone:after {
+  content: "\ea46";
+}
+.cobi-calendar-edit-fill:before {
+  content: "\ea47";
+}
+.cobi-calendar-edit-outline:before {
+  content: "\ea48";
+}
+.cobi-calendar-fill:before {
+  content: "\ea49";
+}
+.cobi-calendar-outline:before {
+  content: "\ea4a";
+}
+.cobi-calendar-remove-duotone:before {
+  content: "\ea4b";
+}
+.cobi-calendar-remove-duotone:after {
+  content: "\ea4c";
+}
+.cobi-calendar-remove-fill:before {
+  content: "\ea4d";
+}
+.cobi-calendar-remove-outline:before {
+  content: "\ea4e";
+}
+.cobi-calendar-search-duotone:before {
+  content: "\ea4f";
+}
+.cobi-calendar-search-duotone:after {
+  content: "\ea50";
+}
+.cobi-calendar-search-fill:before {
+  content: "\ea51";
+}
+.cobi-calendar-search-outline:before {
+  content: "\ea52";
+}
+.cobi-calendar-tick-duotone:before {
+  content: "\ea53";
+}
+.cobi-calendar-tick-duotone:after {
+  content: "\ea54";
+}
+.cobi-calendar-tick-fill:before {
+  content: "\ea55";
+}
+.cobi-calendar-tick-outline:before {
+  content: "\ea56";
+}
+.cobi-call-add-duotone:before {
+  content: "\ea57";
+}
+.cobi-call-add-duotone:after {
+  content: "\ea58";
+}
+.cobi-call-add-fill:before {
+  content: "\ea59";
+}
+.cobi-call-add-outline:before {
+  content: "\ea5a";
+}
+.cobi-call-calling-duotone:before {
+  content: "\ea5b";
+}
+.cobi-call-calling-duotone:after {
+  content: "\ea5c";
+}
+.cobi-call-calling-fill:before {
+  content: "\ea5d";
+}
+.cobi-call-calling-outline:before {
+  content: "\ea5e";
+}
+.cobi-call-duotone:before {
+  content: "\ea5f";
+}
+.cobi-call-duotone:after {
+  content: "\ea60";
+}
+.cobi-call-fill:before {
+  content: "\ea61";
+}
+.cobi-call-incoming-duotone:before {
+  content: "\ea62";
+}
+.cobi-call-incoming-duotone:after {
+  content: "\ea63";
+}
+.cobi-call-incoming-fill:before {
+  content: "\ea64";
+}
+.cobi-call-incoming-outline:before {
+  content: "\ea65";
+}
+.cobi-call-minus-duotone:before {
+  content: "\ea66";
+}
+.cobi-call-minus-duotone:after {
+  content: "\ea67";
+}
+.cobi-call-minus-fill:before {
+  content: "\ea68";
+}
+.cobi-call-minus-outline:before {
+  content: "\ea69";
+}
+.cobi-call-outgoing-duotone:before {
+  content: "\ea6a";
+}
+.cobi-call-outgoing-duotone:after {
+  content: "\ea6b";
+}
+.cobi-call-outgoing-fill:before {
+  content: "\ea6c";
+}
+.cobi-call-outgoing-outline:before {
+  content: "\ea6d";
+}
+.cobi-call-outline:before {
+  content: "\ea6e";
+}
+.cobi-call-received-duotone:before {
+  content: "\ea6f";
+}
+.cobi-call-received-duotone:after {
+  content: "\ea70";
+}
+.cobi-call-received-fill:before {
+  content: "\ea71";
+}
+.cobi-call-received-outline:before {
+  content: "\ea72";
+}
+.cobi-call-remove-duotone:before {
+  content: "\ea73";
+}
+.cobi-call-remove-duotone:after {
+  content: "\ea74";
+}
+.cobi-call-remove-fill:before {
+  content: "\ea75";
+}
+.cobi-call-remove-outline:before {
+  content: "\ea76";
+}
+.cobi-call-slash-duotone:before {
+  content: "\ea77";
+}
+.cobi-call-slash-duotone:after {
+  content: "\ea78";
+}
+.cobi-call-slash-fill:before {
+  content: "\ea79";
+}
+.cobi-call-slash-outline:before {
+  content: "\ea7a";
+}
+.cobi-camera-duotone:before {
+  content: "\ea7b";
+}
+.cobi-camera-duotone:after {
+  content: "\ea7c";
+}
+.cobi-camera-fill:before {
+  content: "\ea7d";
+}
+.cobi-camera-outline:before {
+  content: "\ea7e";
+}
+.cobi-camera-slash-duotone:before {
+  content: "\ea7f";
+}
+.cobi-camera-slash-duotone:after {
+  content: "\ea80";
+}
+.cobi-camera-slash-fill:before {
+  content: "\ea81";
+}
+.cobi-camera-slash-outline:before {
+  content: "\ea82";
+}
+.cobi-card-add-duotone:before {
+  content: "\ea83";
+}
+.cobi-card-add-duotone:after {
+  content: "\ea84";
+}
+.cobi-card-add-fill:before {
+  content: "\ea85";
+}
+.cobi-card-add-outline:before {
+  content: "\ea86";
+}
+.cobi-card-duotone:before {
+  content: "\ea87";
+}
+.cobi-card-duotone:after {
+  content: "\ea88";
+}
+.cobi-card-edit-duotone:before {
+  content: "\ea89";
+}
+.cobi-card-edit-duotone:after {
+  content: "\ea8a";
+}
+.cobi-card-edit-fill:before {
+  content: "\ea8b";
+}
+.cobi-card-edit-outline:before {
+  content: "\ea8c";
+}
+.cobi-card-fill:before {
+  content: "\ea8d";
+}
+.cobi-card-outline:before {
+  content: "\ea8e";
+}
+.cobi-card-pos-duotone:before {
+  content: "\ea8f";
+}
+.cobi-card-pos-duotone:after {
+  content: "\ea90";
+}
+.cobi-card-pos-fill:before {
+  content: "\ea91";
+}
+.cobi-card-pos-outline:before {
+  content: "\ea92";
+}
+.cobi-card-receive-duotone:before {
+  content: "\ea93";
+}
+.cobi-card-receive-duotone:after {
+  content: "\ea94";
+}
+.cobi-card-receive-fill:before {
+  content: "\ea95";
+}
+.cobi-card-receive-outline:before {
+  content: "\ea96";
+}
+.cobi-card-remove-1-duotone:before {
+  content: "\ea97";
+}
+.cobi-card-remove-1-duotone:after {
+  content: "\ea98";
+}
+.cobi-card-remove-1-fill:before {
+  content: "\ea99";
+}
+.cobi-card-remove-1-outline:before {
+  content: "\ea9a";
+}
+.cobi-card-remove-duotone:before {
+  content: "\ea9b";
+}
+.cobi-card-remove-duotone:after {
+  content: "\ea9c";
+}
+.cobi-card-remove-fill:before {
+  content: "\ea9d";
+}
+.cobi-card-remove-outline:before {
+  content: "\ea9e";
+}
+.cobi-cards-duotone:before {
+  content: "\ea9f";
+}
+.cobi-cards-duotone:after {
+  content: "\eaa0";
+}
+.cobi-card-send-duotone:before {
+  content: "\eaa1";
+}
+.cobi-card-send-duotone:after {
+  content: "\eaa2";
+}
+.cobi-card-send-fill:before {
+  content: "\eaa3";
+}
+.cobi-card-send-outline:before {
+  content: "\eaa4";
+}
+.cobi-cards-fill:before {
+  content: "\eaa5";
+}
+.cobi-card-slash-duotone:before {
+  content: "\eaa6";
+}
+.cobi-card-slash-duotone:after {
+  content: "\eaa7";
+}
+.cobi-card-slash-fill:before {
+  content: "\eaa8";
+}
+.cobi-card-slash-outline:before {
+  content: "\eaa9";
+}
+.cobi-cards-outline:before {
+  content: "\eaaa";
+}
+.cobi-card-tick-1-duotone:before {
+  content: "\eaab";
+}
+.cobi-card-tick-1-duotone:after {
+  content: "\eaac";
+}
+.cobi-card-tick-1-fill:before {
+  content: "\eaad";
+}
+.cobi-card-tick-1-outline:before {
+  content: "\eaae";
+}
+.cobi-card-tick-duotone:before {
+  content: "\eaaf";
+}
+.cobi-card-tick-duotone:after {
+  content: "\eab0";
+}
+.cobi-card-tick-fill:before {
+  content: "\eab1";
+}
+.cobi-card-tick-outline:before {
+  content: "\eab2";
+}
+.cobi-car-duotone:before {
+  content: "\eab3";
+}
+.cobi-car-duotone:after {
+  content: "\eab4";
+}
+.cobi-car-fill:before {
+  content: "\eab5";
+}
+.cobi-car-outline:before {
+  content: "\eab6";
+}
+.cobi-category-2-duotone:before {
+  content: "\eab7";
+}
+.cobi-category-2-duotone:after {
+  content: "\eab8";
+}
+.cobi-category-2-fill:before {
+  content: "\eab9";
+}
+.cobi-category-2-outline:before {
+  content: "\eaba";
+}
+.cobi-category-duotone:before {
+  content: "\eabb";
+}
+.cobi-category-duotone:after {
+  content: "\eabc";
+}
+.cobi-category-fill:before {
+  content: "\eabd";
+}
+.cobi-category-outline:before {
+  content: "\eabe";
+}
+.cobi-chart-2-duotone:before {
+  content: "\eabf";
+}
+.cobi-chart-2-duotone:after {
+  content: "\eac0";
+}
+.cobi-chart-2-fill:before {
+  content: "\eac1";
+}
+.cobi-chart-2-outline:before {
+  content: "\eac2";
+}
+.cobi-chart-duotone:before {
+  content: "\eac3";
+}
+.cobi-chart-duotone:after {
+  content: "\eac4";
+}
+.cobi-chart-fill:before {
+  content: "\eac5";
+}
+.cobi-chart-outline:before {
+  content: "\eac6";
+}
+.cobi-clipboard-close-duotone:before {
+  content: "\eac7";
+}
+.cobi-clipboard-close-duotone:after {
+  content: "\eac8";
+}
+.cobi-clipboard-close-fill:before {
+  content: "\eac9";
+}
+.cobi-clipboard-close-outline:before {
+  content: "\eaca";
+}
+.cobi-clipboard-export-duotone:before {
+  content: "\eacb";
+}
+.cobi-clipboard-export-duotone:after {
+  content: "\eacc";
+}
+.cobi-clipboard-export-fill:before {
+  content: "\eacd";
+}
+.cobi-clipboard-export-outline:before {
+  content: "\eace";
+}
+.cobi-clipboard-import-duotone:before {
+  content: "\eacf";
+}
+.cobi-clipboard-import-duotone:after {
+  content: "\ead0";
+}
+.cobi-clipboard-import-fill:before {
+  content: "\ead1";
+}
+.cobi-clipboard-import-outline:before {
+  content: "\ead2";
+}
+.cobi-clipboard-text-duotone:before {
+  content: "\ead3";
+}
+.cobi-clipboard-text-duotone:after {
+  content: "\ead4";
+}
+.cobi-clipboard-text-fill:before {
+  content: "\ead5";
+}
+.cobi-clipboard-text-outline:before {
+  content: "\ead6";
+}
+.cobi-clipboard-tick-duotone:before {
+  content: "\ead7";
+}
+.cobi-clipboard-tick-duotone:after {
+  content: "\ead8";
+}
+.cobi-clipboard-tick-fill:before {
+  content: "\ead9";
+}
+.cobi-clipboard-tick-outline:before {
+  content: "\eada";
+}
+.cobi-clock-duotone:before {
+  content: "\eadb";
+}
+.cobi-clock-duotone:after {
+  content: "\eadc";
+}
+.cobi-clock-fill:before {
+  content: "\eadd";
+}
+.cobi-clock-outline:before {
+  content: "\eade";
+}
+.cobi-close-circle-duotone:before {
+  content: "\eadf";
+}
+.cobi-close-circle-duotone:after {
+  content: "\eae0";
+}
+.cobi-close-circle-fill:before {
+  content: "\eae1";
+}
+.cobi-close-circle-outline:before {
+  content: "\eae2";
+}
+.cobi-close-square-duotone:before {
+  content: "\eae3";
+}
+.cobi-close-square-duotone:after {
+  content: "\eae4";
+}
+.cobi-close-square-fill:before {
+  content: "\eae5";
+}
+.cobi-close-square-outline:before {
+  content: "\eae6";
+}
+.cobi-computing-duotone:before {
+  content: "\eae7";
+}
+.cobi-computing-duotone:after {
+  content: "\eae8";
+}
+.cobi-computing-fill:before {
+  content: "\eae9";
+}
+.cobi-computing-outline:before {
+  content: "\eaea";
+}
+.cobi-convert-duotone:before {
+  content: "\eaeb";
+}
+.cobi-convert-duotone:after {
+  content: "\eaec";
+}
+.cobi-convert-fill:before {
+  content: "\eaed";
+}
+.cobi-convert-outline:before {
+  content: "\eaee";
+}
+.cobi-courthouse-duotone:before {
+  content: "\eaef";
+}
+.cobi-courthouse-duotone:after {
+  content: "\eaf0";
+}
+.cobi-courthouse-fill:before {
+  content: "\eaf1";
+}
+.cobi-courthouse-outline:before {
+  content: "\eaf2";
+}
+.cobi-cup-duotone:before {
+  content: "\eaf3";
+}
+.cobi-cup-duotone:after {
+  content: "\eaf4";
+}
+.cobi-cup-fill:before {
+  content: "\eaf5";
+}
+.cobi-cup-outline:before {
+  content: "\eaf6";
+}
+.cobi-danger-duotone:before {
+  content: "\eaf7";
+}
+.cobi-danger-duotone:after {
+  content: "\eaf8";
+}
+.cobi-danger-fill:before {
+  content: "\eaf9";
+}
+.cobi-danger-outline:before {
+  content: "\eafa";
+}
+.cobi-device-message-duotone:before {
+  content: "\eafb";
+}
+.cobi-device-message-duotone:after {
+  content: "\eafc";
+}
+.cobi-device-message-fill:before {
+  content: "\eafd";
+}
+.cobi-device-message-outline:before {
+  content: "\eafe";
+}
+.cobi-directbox-default-duotone:before {
+  content: "\eaff";
+}
+.cobi-directbox-default-duotone:after {
+  content: "\eb00";
+}
+.cobi-directbox-default-fill:before {
+  content: "\eb01";
+}
+.cobi-directbox-default-outline:before {
+  content: "\eb02";
+}
+.cobi-directbox-notif-duotone:before {
+  content: "\eb03";
+}
+.cobi-directbox-notif-duotone:after {
+  content: "\eb04";
+}
+.cobi-directbox-notif-fill:before {
+  content: "\eb05";
+}
+.cobi-directbox-notif-outline:before {
+  content: "\eb06";
+}
+.cobi-directbox-receive-duotone:before {
+  content: "\eb07";
+}
+.cobi-directbox-receive-duotone:after {
+  content: "\eb08";
+}
+.cobi-directbox-receive-fill:before {
+  content: "\eb09";
+}
+.cobi-directbox-receive-outline:before {
+  content: "\eb0a";
+}
+.cobi-directbox-send-duotone:before {
+  content: "\eb0b";
+}
+.cobi-directbox-send-duotone:after {
+  content: "\eb0c";
+}
+.cobi-directbox-send-fill:before {
+  content: "\eb0d";
+}
+.cobi-directbox-send-outline:before {
+  content: "\eb0e";
+}
+.cobi-direct-down-duotone:before {
+  content: "\eb0f";
+}
+.cobi-direct-down-duotone:after {
+  content: "\eb10";
+}
+.cobi-direct-down-fill:before {
+  content: "\eb11";
+}
+.cobi-direct-down-outline:before {
+  content: "\eb12";
+}
+.cobi-direct-duotone:before {
+  content: "\eb13";
+}
+.cobi-direct-duotone:after {
+  content: "\eb14";
+}
+.cobi-direct-fill:before {
+  content: "\eb15";
+}
+.cobi-direct-inbox-duotone:before {
+  content: "\eb16";
+}
+.cobi-direct-inbox-duotone:after {
+  content: "\eb17";
+}
+.cobi-direct-inbox-fill:before {
+  content: "\eb18";
+}
+.cobi-direct-inbox-outline:before {
+  content: "\eb19";
+}
+.cobi-direct-left-duotone:before {
+  content: "\eb1a";
+}
+.cobi-direct-left-duotone:after {
+  content: "\eb1b";
+}
+.cobi-direct-left-fill:before {
+  content: "\eb1c";
+}
+.cobi-direct-left-outline:before {
+  content: "\eb1d";
+}
+.cobi-direct-normal-duotone:before {
+  content: "\eb1e";
+}
+.cobi-direct-normal-duotone:after {
+  content: "\eb1f";
+}
+.cobi-direct-normal-fill:before {
+  content: "\eb20";
+}
+.cobi-direct-normal-outline:before {
+  content: "\eb21";
+}
+.cobi-direct-notification-duotone:before {
+  content: "\eb22";
+}
+.cobi-direct-notification-duotone:after {
+  content: "\eb23";
+}
+.cobi-direct-notification-fill:before {
+  content: "\eb24";
+}
+.cobi-direct-notification-outline:before {
+  content: "\eb25";
+}
+.cobi-direct-outline:before {
+  content: "\eb26";
+}
+.cobi-direct-right-duotone:before {
+  content: "\eb27";
+}
+.cobi-direct-right-duotone:after {
+  content: "\eb28";
+}
+.cobi-direct-right-fill:before {
+  content: "\eb29";
+}
+.cobi-direct-right-outline:before {
+  content: "\eb2a";
+}
+.cobi-direct-send-duotone:before {
+  content: "\eb2b";
+}
+.cobi-direct-send-duotone:after {
+  content: "\eb2c";
+}
+.cobi-direct-send-fill:before {
+  content: "\eb2d";
+}
+.cobi-direct-send-outline:before {
+  content: "\eb2e";
+}
+.cobi-direct-up-duotone:before {
+  content: "\eb2f";
+}
+.cobi-direct-up-duotone:after {
+  content: "\eb30";
+}
+.cobi-direct-up-fill:before {
+  content: "\eb31";
+}
+.cobi-direct-up-outline:before {
+  content: "\eb32";
+}
+.cobi-discount-circle-duotone:before {
+  content: "\eb33";
+}
+.cobi-discount-circle-duotone:after {
+  content: "\eb34";
+}
+.cobi-discount-circle-fill:before {
+  content: "\eb35";
+}
+.cobi-discount-circle-outline:before {
+  content: "\eb36";
+}
+.cobi-discount-shape-duotone:before {
+  content: "\eb37";
+}
+.cobi-discount-shape-duotone:after {
+  content: "\eb38";
+}
+.cobi-discount-shape-fill:before {
+  content: "\eb39";
+}
+.cobi-discount-shape-outline:before {
+  content: "\eb3a";
+}
+.cobi-discover-duotone:before {
+  content: "\eb3b";
+}
+.cobi-discover-duotone:after {
+  content: "\eb3c";
+}
+.cobi-discover-fill:before {
+  content: "\eb3d";
+}
+.cobi-discover-outline:before {
+  content: "\eb3e";
+}
+.cobi-dislike-duotone:before {
+  content: "\eb3f";
+}
+.cobi-dislike-duotone:after {
+  content: "\eb40";
+}
+.cobi-dislike-fill:before {
+  content: "\eb41";
+}
+.cobi-dislike-outline:before {
+  content: "\eb42";
+}
+.cobi-document-1-duotone:before {
+  content: "\eb43";
+}
+.cobi-document-1-duotone:after {
+  content: "\eb44";
+}
+.cobi-document-1-fill:before {
+  content: "\eb45";
+}
+.cobi-document-1-outline:before {
+  content: "\eb46";
+}
+.cobi-document-cloud-duotone:before {
+  content: "\eb47";
+}
+.cobi-document-cloud-duotone:after {
+  content: "\eb48";
+}
+.cobi-document-copy-duotone:before {
+  content: "\eb49";
+}
+.cobi-document-copy-duotone:after {
+  content: "\eb4a";
+}
+.cobi-document-copy-fill:before {
+  content: "\eb4b";
+}
+.cobi-document-copy-outline:before {
+  content: "\eb4c";
+}
+.cobi-document-download-duotone:before {
+  content: "\eb4d";
+}
+.cobi-document-download-duotone:after {
+  content: "\eb4e";
+}
+.cobi-document-download-fill:before {
+  content: "\eb4f";
+}
+.cobi-document-download-outline:before {
+  content: "\eb50";
+}
+.cobi-document-duotone:before {
+  content: "\eb51";
+}
+.cobi-document-duotone:after {
+  content: "\eb52";
+}
+.cobi-document-fill:before {
+  content: "\eb53";
+}
+.cobi-document-filter-duotone:before {
+  content: "\eb54";
+}
+.cobi-document-filter-duotone:after {
+  content: "\eb55";
+}
+.cobi-document-filter-fill:before {
+  content: "\eb56";
+}
+.cobi-document-filter-outline:before {
+  content: "\eb57";
+}
+.cobi-document-forward-duotone:before {
+  content: "\eb58";
+}
+.cobi-document-forward-duotone:after {
+  content: "\eb59";
+}
+.cobi-document-forward-fill:before {
+  content: "\eb5a";
+}
+.cobi-document-forward-outline:before {
+  content: "\eb5b";
+}
+.cobi-document-normal-duotone:before {
+  content: "\eb5c";
+}
+.cobi-document-normal-duotone:after {
+  content: "\eb5d";
+}
+.cobi-document-normal-fill:before {
+  content: "\eb5e";
+}
+.cobi-document-normal-outline:before {
+  content: "\eb5f";
+}
+.cobi-document-outline:before {
+  content: "\eb60";
+}
+.cobi-document-previous-duotone:before {
+  content: "\eb61";
+}
+.cobi-document-previous-duotone:after {
+  content: "\eb62";
+}
+.cobi-document-previous-fill:before {
+  content: "\eb63";
+}
+.cobi-document-previous-outline:before {
+  content: "\eb64";
+}
+.cobi-document-text-1-duotone:before {
+  content: "\eb65";
+}
+.cobi-document-text-1-duotone:after {
+  content: "\eb66";
+}
+.cobi-document-text-1-fill:before {
+  content: "\eb67";
+}
+.cobi-document-text-1-outline:before {
+  content: "\eb68";
+}
+.cobi-document-text-duotone:before {
+  content: "\eb69";
+}
+.cobi-document-text-duotone:after {
+  content: "\eb6a";
+}
+.cobi-document-text-fill:before {
+  content: "\eb6b";
+}
+.cobi-document-text-outline:before {
+  content: "\eb6c";
+}
+.cobi-document-upload-duotone:before {
+  content: "\eb6d";
+}
+.cobi-document-upload-duotone:after {
+  content: "\eb6e";
+}
+.cobi-document-upload-fill:before {
+  content: "\eb6f";
+}
+.cobi-document-upload-outline:before {
+  content: "\eb70";
+}
+.cobi-dollar-circle-duotone:before {
+  content: "\eb71";
+}
+.cobi-dollar-circle-duotone:after {
+  content: "\eb72";
+}
+.cobi-dollar-circle-fill:before {
+  content: "\eb73";
+}
+.cobi-dollar-circle-outline:before {
+  content: "\eb74";
+}
+.cobi-dollar-square-duotone:before {
+  content: "\eb75";
+}
+.cobi-dollar-square-duotone:after {
+  content: "\eb76";
+}
+.cobi-dollar-square-fill:before {
+  content: "\eb77";
+}
+.cobi-dollar-square-outline:before {
+  content: "\eb78";
+}
+.cobi-dribbble-duotone:before {
+  content: "\eb79";
+}
+.cobi-dribbble-duotone:after {
+  content: "\eb7a";
+}
+.cobi-dribbble-fill:before {
+  content: "\eb7b";
+}
+.cobi-dribbble-outline:before {
+  content: "\eb7c";
+}
+.cobi-driving-duotone:before {
+  content: "\eb7d";
+}
+.cobi-driving-duotone:after {
+  content: "\eb7e";
+}
+.cobi-driving-fill:before {
+  content: "\eb7f";
+}
+.cobi-driving-outline:before {
+  content: "\eb80";
+}
+.cobi-edit-2-duotone:before {
+  content: "\eb81";
+}
+.cobi-edit-2-duotone:after {
+  content: "\eb82";
+}
+.cobi-edit-2-fill:before {
+  content: "\eb83";
+}
+.cobi-edit-2-outline:before {
+  content: "\eb84";
+}
+.cobi-edit-duotone:before {
+  content: "\eb85";
+}
+.cobi-edit-duotone:after {
+  content: "\eb86";
+}
+.cobi-edit-fill:before {
+  content: "\eb87";
+}
+.cobi-edit-outline:before {
+  content: "\eb88";
+}
+.cobi-emoji-happy-duotone:before {
+  content: "\eb89";
+}
+.cobi-emoji-happy-duotone:after {
+  content: "\eb8a";
+}
+.cobi-emoji-happy-fill:before {
+  content: "\eb8b";
+}
+.cobi-emoji-happy-outline:before {
+  content: "\eb8c";
+}
+.cobi-emoji-normal-duotone:before {
+  content: "\eb8d";
+}
+.cobi-emoji-normal-duotone:after {
+  content: "\eb8e";
+}
+.cobi-emoji-normal-fill:before {
+  content: "\eb8f";
+}
+.cobi-emoji-normal-outline:before {
+  content: "\eb90";
+}
+.cobi-emoji-sad-duotone:before {
+  content: "\eb91";
+}
+.cobi-emoji-sad-duotone:after {
+  content: "\eb92";
+}
+.cobi-emoji-sad-fill:before {
+  content: "\eb93";
+}
+.cobi-emoji-sad-outline:before {
+  content: "\eb94";
+}
+.cobi-empty-wallet-add-duotone:before {
+  content: "\eb95";
+}
+.cobi-empty-wallet-add-duotone:after {
+  content: "\eb96";
+  margin-left: -1.0419921875em;
+}
+.cobi-empty-wallet-add-fill:before {
+  content: "\eb97";
+}
+.cobi-empty-wallet-add-outline:before {
+  content: "\eb98";
+}
+.cobi-empty-wallet-change-duotone:before {
+  content: "\eb99";
+}
+.cobi-empty-wallet-change-duotone:after {
+  content: "\eb9a";
+}
+.cobi-empty-wallet-change-fill:before {
+  content: "\eb9b";
+}
+.cobi-empty-wallet-change-outline:before {
+  content: "\eb9c";
+}
+.cobi-empty-wallet-duotone:before {
+  content: "\eb9d";
+}
+.cobi-empty-wallet-duotone:after {
+  content: "\eb9e";
+}
+.cobi-empty-wallet-fill:before {
+  content: "\eb9f";
+}
+.cobi-empty-wallet-outline:before {
+  content: "\eba0";
+}
+.cobi-empty-wallet-remove-duotone:before {
+  content: "\eba1";
+}
+.cobi-empty-wallet-remove-duotone:after {
+  content: "\eba2";
+}
+.cobi-empty-wallet-remove-fill:before {
+  content: "\eba3";
+}
+.cobi-empty-wallet-remove-outline:before {
+  content: "\eba4";
+}
+.cobi-empty-wallet-tick-duotone:before {
+  content: "\eba5";
+}
+.cobi-empty-wallet-tick-duotone:after {
+  content: "\eba6";
+}
+.cobi-empty-wallet-tick-fill:before {
+  content: "\eba7";
+}
+.cobi-empty-wallet-tick-outline:before {
+  content: "\eba8";
+}
+.cobi-empty-wallet-time-duotone:before {
+  content: "\eba9";
+}
+.cobi-empty-wallet-time-duotone:after {
+  content: "\ebaa";
+}
+.cobi-empty-wallet-time-fill:before {
+  content: "\ebab";
+}
+.cobi-empty-wallet-time-outline:before {
+  content: "\ebac";
+}
+.cobi-export-1-duotone:before {
+  content: "\ebad";
+}
+.cobi-export-1-duotone:after {
+  content: "\ebae";
+}
+.cobi-export-1-outline:before {
+  content: "\ebaf";
+}
+.cobi-export-2-outline:before {
+  content: "\ebb0";
+}
+.cobi-export-3-fill:before {
+  content: "\ebb1";
+}
+.cobi-export-3-outline:before {
+  content: "\ebb2";
+}
+.cobi-export-circle-duotone:before {
+  content: "\ebb3";
+}
+.cobi-export-circle-duotone:after {
+  content: "\ebb4";
+}
+.cobi-export-circle-fill:before {
+  content: "\ebb5";
+}
+.cobi-export-duotone:before {
+  content: "\ebb6";
+}
+.cobi-export-duotone:after {
+  content: "\ebb7";
+}
+.cobi-export-fill:before {
+  content: "\ebb8";
+}
+.cobi-export-outline:before {
+  content: "\ebb9";
+}
+.cobi-export-square-duotone:before {
+  content: "\ebba";
+}
+.cobi-export-square-duotone:after {
+  content: "\ebbb";
+}
+.cobi-export-square-fill:before {
+  content: "\ebbc";
+}
+.cobi-eye-duotone:before {
+  content: "\ebbd";
+}
+.cobi-eye-duotone:after {
+  content: "\ebbe";
+}
+.cobi-eye-fill:before {
+  content: "\ebbf";
+}
+.cobi-eye-outline:before {
+  content: "\ebc0";
+}
+.cobi-eye-slash-duotone:before {
+  content: "\ebc1";
+}
+.cobi-eye-slash-duotone:after {
+  content: "\ebc2";
+}
+.cobi-eye-slash-fill:before {
+  content: "\ebc3";
+}
+.cobi-eye-slash-outline:before {
+  content: "\ebc4";
+}
+.cobi-facebook-duotone:before {
+  content: "\ebc5";
+}
+.cobi-facebook-duotone:after {
+  content: "\ebc6";
+}
+.cobi-facebook-fill:before {
+  content: "\ebc7";
+}
+.cobi-facebook-outline:before {
+  content: "\ebc8";
+}
+.cobi-filter-add-duotone:before {
+  content: "\ebc9";
+}
+.cobi-filter-add-duotone:after {
+  content: "\ebca";
+}
+.cobi-filter-add-fill:before {
+  content: "\ebcb";
+}
+.cobi-filter-add-outline:before {
+  content: "\ebcc";
+}
+.cobi-filter-duotone:before {
+  content: "\ebcd";
+}
+.cobi-filter-duotone:after {
+  content: "\ebce";
+}
+.cobi-filter-edit-duotone:before {
+  content: "\ebcf";
+}
+.cobi-filter-edit-duotone:after {
+  content: "\ebd0";
+}
+.cobi-filter-edit-fill:before {
+  content: "\ebd1";
+}
+.cobi-filter-edit-outline:before {
+  content: "\ebd2";
+}
+.cobi-filter-fill:before {
+  content: "\ebd3";
+}
+.cobi-filter-outline:before {
+  content: "\ebd4";
+}
+.cobi-filter-remove-duotone:before {
+  content: "\ebd5";
+}
+.cobi-filter-remove-duotone:after {
+  content: "\ebd6";
+}
+.cobi-filter-remove-fill:before {
+  content: "\ebd7";
+}
+.cobi-filter-remove-outline:before {
+  content: "\ebd8";
+}
+.cobi-filter-search-duotone:before {
+  content: "\ebd9";
+}
+.cobi-filter-search-duotone:after {
+  content: "\ebda";
+}
+.cobi-filter-search-fill:before {
+  content: "\ebdb";
+}
+.cobi-filter-search-outline:before {
+  content: "\ebdc";
+}
+.cobi-filter-square-duotone:before {
+  content: "\ebdd";
+}
+.cobi-filter-square-duotone:after {
+  content: "\ebde";
+}
+.cobi-filter-square-fill:before {
+  content: "\ebdf";
+}
+.cobi-filter-square-outline:before {
+  content: "\ebe0";
+}
+.cobi-filter-tick-duotone:before {
+  content: "\ebe1";
+}
+.cobi-filter-tick-duotone:after {
+  content: "\ebe2";
+}
+.cobi-filter-tick-fill:before {
+  content: "\ebe3";
+}
+.cobi-filter-tick-outline:before {
+  content: "\ebe4";
+}
+.cobi-flag-2-duotone:before {
+  content: "\ebe5";
+}
+.cobi-flag-2-duotone:after {
+  content: "\ebe6";
+}
+.cobi-flag-2-fill:before {
+  content: "\ebe7";
+}
+.cobi-flag-2-outline:before {
+  content: "\ebe8";
+}
+.cobi-flag-duotone:before {
+  content: "\ebe9";
+}
+.cobi-flag-duotone:after {
+  content: "\ebea";
+}
+.cobi-flag-fill:before {
+  content: "\ebeb";
+}
+.cobi-flag-outline:before {
+  content: "\ebec";
+}
+.cobi-flash-circle-duotone:before {
+  content: "\ebed";
+}
+.cobi-flash-circle-duotone:after {
+  content: "\ebee";
+}
+.cobi-flash-circle-fill:before {
+  content: "\ebef";
+}
+.cobi-flash-circle-outline:before {
+  content: "\ebf0";
+}
+.cobi-flash-duotone:before {
+  content: "\ebf1";
+}
+.cobi-flash-duotone:after {
+  content: "\ebf2";
+}
+.cobi-flash-fill:before {
+  content: "\ebf3";
+}
+.cobi-flash-outline:before {
+  content: "\ebf4";
+}
+.cobi-flash-slash-duotone:before {
+  content: "\ebf5";
+}
+.cobi-flash-slash-duotone:after {
+  content: "\ebf6";
+}
+.cobi-flash-slash-fill:before {
+  content: "\ebf7";
+}
+.cobi-flash-slash-outline:before {
+  content: "\ebf8";
+}
+.cobi-forbidden-2-duotone:before {
+  content: "\ebf9";
+}
+.cobi-forbidden-2-duotone:after {
+  content: "\ebfa";
+}
+.cobi-forbidden-2-fill:before {
+  content: "\ebfb";
+}
+.cobi-forbidden-2-outline:before {
+  content: "\ebfc";
+}
+.cobi-forbidden-duotone:before {
+  content: "\ebfd";
+}
+.cobi-forbidden-duotone:after {
+  content: "\ebfe";
+}
+.cobi-forbidden-fill:before {
+  content: "\ebff";
+}
+.cobi-forbidden-outline:before {
+  content: "\ec00";
+}
+.cobi-forward-square-duotone:before {
+  content: "\ec01";
+}
+.cobi-forward-square-duotone:after {
+  content: "\ec02";
+}
+.cobi-forward-square-fill:before {
+  content: "\ec03";
+}
+.cobi-forward-square-outline:before {
+  content: "\ec04";
+}
+.cobi-gallery-add-duotone:before {
+  content: "\ec05";
+}
+.cobi-gallery-add-duotone:after {
+  content: "\ec06";
+}
+.cobi-gallery-add-fill:before {
+  content: "\ec07";
+}
+.cobi-gallery-add-outline:before {
+  content: "\ec08";
+}
+.cobi-gallery-duotone:before {
+  content: "\ec09";
+}
+.cobi-gallery-duotone:after {
+  content: "\ec0a";
+}
+.cobi-gallery-export-duotone:before {
+  content: "\ec0b";
+}
+.cobi-gallery-export-duotone:after {
+  content: "\ec0c";
+}
+.cobi-gallery-export-fill:before {
+  content: "\ec0d";
+}
+.cobi-gallery-export-outline:before {
+  content: "\ec0e";
+}
+.cobi-gallery-fill:before {
+  content: "\ec0f";
+}
+.cobi-gallery-import-duotone:before {
+  content: "\ec10";
+}
+.cobi-gallery-import-duotone:after {
+  content: "\ec11";
+}
+.cobi-gallery-import-fill:before {
+  content: "\ec12";
+}
+.cobi-gallery-import-outline:before {
+  content: "\ec13";
+}
+.cobi-gallery-outline:before {
+  content: "\ec14";
+}
+.cobi-gallery-remove-duotone:before {
+  content: "\ec15";
+}
+.cobi-gallery-remove-duotone:after {
+  content: "\ec16";
+}
+.cobi-gallery-remove-fill:before {
+  content: "\ec17";
+}
+.cobi-gallery-remove-outline:before {
+  content: "\ec18";
+}
+.cobi-gallery-slash-duotone:before {
+  content: "\ec19";
+}
+.cobi-gallery-slash-duotone:after {
+  content: "\ec1a";
+}
+.cobi-gallery-slash-fill:before {
+  content: "\ec1b";
+}
+.cobi-gallery-slash-outline:before {
+  content: "\ec1c";
+}
+.cobi-gallery-tick-duotone:before {
+  content: "\ec1d";
+}
+.cobi-gallery-tick-duotone:after {
+  content: "\ec1e";
+}
+.cobi-gallery-tick-fill:before {
+  content: "\ec1f";
+}
+.cobi-gallery-tick-outline:before {
+  content: "\ec20";
+}
+.cobi-gas-station-duotone:before {
+  content: "\ec21";
+}
+.cobi-gas-station-duotone:after {
+  content: "\ec22";
+}
+.cobi-gas-station-fill:before {
+  content: "\ec23";
+}
+.cobi-gas-station-outline:before {
+  content: "\ec24";
+}
+.cobi-gift-duotone:before {
+  content: "\ec25";
+}
+.cobi-gift-duotone:after {
+  content: "\ec26";
+}
+.cobi-gift-duotone .path3:before {
+  content: "\ec27";
+
+  opacity: 0.6;
+}
+.cobi-gift-duotone .path4:before {
+  content: "\ec28";
+}
+.cobi-gift-fill:before {
+  content: "\ec29";
+}
+.cobi-gift-outline:before {
+  content: "\ec2a";
+}
+.cobi-google-duotone:before {
+  content: "\ec2b";
+}
+.cobi-google-duotone:after {
+  content: "\ec2c";
+}
+.cobi-google-fill:before {
+  content: "\ec2d";
+}
+.cobi-google-outline:before {
+  content: "\ec2e";
+}
+.cobi-google-paly-outline:before {
+  content: "\ec2f";
+}
+.cobi-google-pay-fill:before {
+  content: "\ec30";
+}
+.cobi-google-play-duotone:before {
+  content: "\ec31";
+}
+.cobi-google-play-duotone:after {
+  content: "\ec32";
+}
+.cobi-google-play-fill:before {
+  content: "\ec33";
+}
+.cobi-gps-duotone:before {
+  content: "\ec34";
+}
+.cobi-gps-duotone:after {
+  content: "\ec35";
+}
+.cobi-gps-fill:before {
+  content: "\ec36";
+}
+.cobi-gps-outline:before {
+  content: "\ec37";
+}
+.cobi-gps-slash-duotone:before {
+  content: "\ec38";
+}
+.cobi-gps-slash-duotone:after {
+  content: "\ec39";
+}
+.cobi-gps-slash-fill:before {
+  content: "\ec3a";
+}
+.cobi-gps-slash-outline:before {
+  content: "\ec3b";
+}
+.cobi-heart-add-duotone:before {
+  content: "\ec3c";
+}
+.cobi-heart-add-duotone:after {
+  content: "\ec3d";
+}
+.cobi-heart-add-fill:before {
+  content: "\ec3e";
+}
+.cobi-heart-add-outline:before {
+  content: "\ec3f";
+}
+.cobi-heart-circle-duotone:before {
+  content: "\ec40";
+}
+.cobi-heart-circle-duotone:after {
+  content: "\ec41";
+}
+.cobi-heart-circle-fill:before {
+  content: "\ec42";
+}
+.cobi-heart-circle-outline:before {
+  content: "\ec43";
+}
+.cobi-heart-duotone:before {
+  content: "\ec44";
+}
+.cobi-heart-duotone:after {
+  content: "\ec45";
+}
+.cobi-heart-edit-duotone:before {
+  content: "\ec46";
+}
+.cobi-heart-edit-duotone:after {
+  content: "\ec47";
+}
+.cobi-heart-edit-fill:before {
+  content: "\ec48";
+}
+.cobi-heart-edit-outline:before {
+  content: "\ec49";
+}
+.cobi-heart-fill:before {
+  content: "\ec4a";
+}
+.cobi-heart-outline:before {
+  content: "\ec4b";
+}
+.cobi-heart-remove-duotone:before {
+  content: "\ec4c";
+}
+.cobi-heart-remove-duotone:after {
+  content: "\ec4d";
+}
+.cobi-heart-remove-fill:before {
+  content: "\ec4e";
+}
+.cobi-heart-remove-outline:before {
+  content: "\ec4f";
+}
+.cobi-heart-search-duotone:before {
+  content: "\ec50";
+}
+.cobi-heart-search-duotone:after {
+  content: "\ec51";
+}
+.cobi-heart-search-fill:before {
+  content: "\ec52";
+}
+.cobi-heart-search-outline:before {
+  content: "\ec53";
+}
+.cobi-heart-slash-duotone:before {
+  content: "\ec54";
+}
+.cobi-heart-slash-duotone:after {
+  content: "\ec55";
+}
+.cobi-heart-slash-fill:before {
+  content: "\ec56";
+}
+.cobi-heart-slash-outline:before {
+  content: "\ec57";
+}
+.cobi-heart-tick-duotone:before {
+  content: "\ec58";
+}
+.cobi-heart-tick-duotone:after {
+  content: "\ec59";
+}
+.cobi-heart-tick-fill:before {
+  content: "\ec5a";
+}
+.cobi-heart-tick-outline:before {
+  content: "\ec5b";
+}
+.cobi-home-1-duotone:before {
+  content: "\ec5c";
+}
+.cobi-home-1-duotone:after {
+  content: "\ec5d";
+}
+.cobi-home-1-fill:before {
+  content: "\ec5e";
+}
+.cobi-home-1-outline:before {
+  content: "\ec5f";
+}
+.cobi-home-2-duotone:before {
+  content: "\ec60";
+}
+.cobi-home-2-duotone:after {
+  content: "\ec61";
+}
+.cobi-home-2-fill:before {
+  content: "\ec62";
+}
+.cobi-home-2-outline:before {
+  content: "\ec63";
+}
+.cobi-home-duotone:before {
+  content: "\ec64";
+}
+.cobi-home-duotone:after {
+  content: "\ec65";
+}
+.cobi-home-fill:before {
+  content: "\ec66";
+}
+.cobi-home-outline:before {
+  content: "\ec67";
+}
+.cobi-home-wifi-duotone:before {
+  content: "\ec68";
+}
+.cobi-home-wifi-duotone:after {
+  content: "\ec69";
+}
+.cobi-home-wifi-fill:before {
+  content: "\ec6a";
+}
+.cobi-home-wifi-outline:before {
+  content: "\ec6b";
+}
+.cobi-hospital-duotone:before {
+  content: "\ec6c";
+}
+.cobi-hospital-duotone:after {
+  content: "\ec6d";
+}
+.cobi-hospital-fill:before {
+  content: "\ec6e";
+}
+.cobi-hospital-outline:before {
+  content: "\ec6f";
+}
+.cobi-house-1-outline:before {
+  content: "\ec70";
+}
+.cobi-house-2-duotone:before {
+  content: "\ec71";
+}
+.cobi-house-2-duotone:after {
+  content: "\ec72";
+}
+.cobi-house-2-fill:before {
+  content: "\ec73";
+}
+.cobi-house-duotone:before {
+  content: "\ec74";
+}
+.cobi-house-duotone:after {
+  content: "\ec75";
+}
+.cobi-house-fill:before {
+  content: "\ec76";
+}
+.cobi-house-outline:before {
+  content: "\ec77";
+}
+.cobi-image-duotone:before {
+  content: "\ec78";
+}
+.cobi-image-duotone:after {
+  content: "\ec79";
+}
+.cobi-image-fill:before {
+  content: "\ec7a";
+}
+.cobi-image-outline:before {
+  content: "\ec7b";
+}
+.cobi-import-1-duotone:before {
+  content: "\ec7c";
+}
+.cobi-import-1-duotone:after {
+  content: "\ec7d";
+}
+.cobi-import-1-fill:before {
+  content: "\ec7e";
+}
+.cobi-import-1-outline:before {
+  content: "\ec7f";
+}
+.cobi-import-2-outline:before {
+  content: "\ec80";
+}
+.cobi-import-3-outline:before {
+  content: "\ec81";
+}
+.cobi-import-circle-duotone:before {
+  content: "\ec82";
+}
+.cobi-import-circle-duotone:after {
+  content: "\ec83";
+}
+.cobi-import-circle-fill:before {
+  content: "\ec84";
+}
+.cobi-import-duotone:before {
+  content: "\ec85";
+}
+.cobi-import-duotone:after {
+  content: "\ec86";
+}
+.cobi-import-fill:before {
+  content: "\ec87";
+}
+.cobi-import-outline:before {
+  content: "\ec88";
+}
+.cobi-import-square-duotone:before {
+  content: "\ec89";
+}
+.cobi-import-square-duotone:after {
+  content: "\ec8a";
+}
+.cobi-import-square-fill:before {
+  content: "\ec8b";
+}
+.cobi-info-circle-duotone:before {
+  content: "\ec8c";
+}
+.cobi-info-circle-duotone:after {
+  content: "\ec8d";
+}
+.cobi-info-circle-fill:before {
+  content: "\ec8e";
+}
+.cobi-info-circle-outline:before {
+  content: "\ec8f";
+}
+.cobi-information-duotone:before {
+  content: "\ec90";
+}
+.cobi-information-duotone:after {
+  content: "\ec91";
+}
+.cobi-information-fill:before {
+  content: "\ec92";
+}
+.cobi-information-outline:before {
+  content: "\ec93";
+}
+.cobi-instagram-duotone:before {
+  content: "\ec94";
+}
+.cobi-instagram-duotone:after {
+  content: "\ec95";
+}
+.cobi-instagram-fill:before {
+  content: "\ec96";
+}
+.cobi-instagram-outline:before {
+  content: "\ec97";
+}
+.cobi-key-duotone:before {
+  content: "\ec98";
+}
+.cobi-key-duotone:after {
+  content: "\ec99";
+}
+.cobi-key-fill:before {
+  content: "\ec9a";
+}
+.cobi-key-outline:before {
+  content: "\ec9b";
+}
+.cobi-key-square-duotone:before {
+  content: "\ec9c";
+}
+.cobi-key-square-duotone:after {
+  content: "\ec9d";
+}
+.cobi-key-square-fill:before {
+  content: "\ec9e";
+}
+.cobi-key-square-outline:before {
+  content: "\ec9f";
+}
+.cobi-lamp-charge-duotone:before {
+  content: "\eca0";
+}
+.cobi-lamp-charge-duotone:after {
+  content: "\eca1";
+}
+.cobi-lamp-charge-fill:before {
+  content: "\eca2";
+}
+.cobi-lamp-charge-outline:before {
+  content: "\eca3";
+}
+.cobi-lamp-duotone:before {
+  content: "\eca4";
+}
+.cobi-lamp-duotone:after {
+  content: "\eca5";
+}
+.cobi-lamp-fill:before {
+  content: "\eca6";
+}
+.cobi-lamp-on-duotone:before {
+  content: "\eca7";
+}
+.cobi-lamp-on-duotone:after {
+  content: "\eca8";
+}
+.cobi-lamp-on-fill:before {
+  content: "\eca9";
+}
+.cobi-lamp-on-outline:before {
+  content: "\ecaa";
+}
+.cobi-lamp-outline:before {
+  content: "\ecab";
+}
+.cobi-lamp-slash-duotone:before {
+  content: "\ecac";
+}
+.cobi-lamp-slash-duotone:after {
+  content: "\ecad";
+}
+.cobi-lamp-slash-fill:before {
+  content: "\ecae";
+}
+.cobi-lamp-slash-outline:before {
+  content: "\ecaf";
+}
+.cobi-like-1-duotone:before {
+  content: "\ecb0";
+}
+.cobi-like-1-duotone:after {
+  content: "\ecb1";
+}
+.cobi-like-1-fill:before {
+  content: "\ecb2";
+}
+.cobi-like-1-outline:before {
+  content: "\ecb3";
+}
+.cobi-like-dislike-duotone:before {
+  content: "\ecb4";
+}
+.cobi-like-dislike-duotone:after {
+  content: "\ecb5";
+}
+.cobi-like-dislike-fill:before {
+  content: "\ecb6";
+}
+.cobi-like-dislike-outline:before {
+  content: "\ecb7";
+}
+.cobi-like-duotone:before {
+  content: "\ecb8";
+}
+.cobi-like-duotone:after {
+  content: "\ecb9";
+}
+.cobi-like-fill:before {
+  content: "\ecba";
+}
+.cobi-like-outline:before {
+  content: "\ecbb";
+}
+.cobi-like-shapes-duotone:before {
+  content: "\ecbc";
+}
+.cobi-like-shapes-duotone:after {
+  content: "\ecbd";
+}
+.cobi-like-shapes-fill:before {
+  content: "\ecbe";
+}
+.cobi-like-shapes-outline:before {
+  content: "\ecbf";
+}
+.cobi-like-tag-duotone:before {
+  content: "\ecc0";
+}
+.cobi-like-tag-duotone:after {
+  content: "\ecc1";
+}
+.cobi-like-tag-fill:before {
+  content: "\ecc2";
+}
+.cobi-like-tag-outline:before {
+  content: "\ecc3";
+}
+.cobi-line-chart-duotone:before {
+  content: "\ecc4";
+}
+.cobi-line-chart-duotone:after {
+  content: "\ecc5";
+}
+.cobi-line-chart-outline:before {
+  content: "\ecc6";
+}
+.cobi-location-add-duotone:before {
+  content: "\ecc7";
+}
+.cobi-location-add-duotone:after {
+  content: "\ecc8";
+}
+.cobi-location-add-fill:before {
+  content: "\ecc9";
+}
+.cobi-location-add-outline:before {
+  content: "\ecca";
+}
+.cobi-location-cross-duotone:before {
+  content: "\eccb";
+}
+.cobi-location-cross-duotone:after {
+  content: "\eccc";
+}
+.cobi-location-cross-fill:before {
+  content: "\eccd";
+}
+.cobi-location-cross-outline:before {
+  content: "\ecce";
+}
+.cobi-location-duotone:before {
+  content: "\eccf";
+}
+.cobi-location-duotone:after {
+  content: "\ecd0";
+}
+.cobi-location-fill:before {
+  content: "\ecd1";
+}
+.cobi-location-minus-duotone:before {
+  content: "\ecd2";
+}
+.cobi-location-minus-duotone:after {
+  content: "\ecd3";
+}
+.cobi-location-minus-fill:before {
+  content: "\ecd4";
+}
+.cobi-location-minus-outline:before {
+  content: "\ecd5";
+}
+.cobi-location-outline:before {
+  content: "\ecd6";
+}
+.cobi-location-slash-duotone:before {
+  content: "\ecd7";
+}
+.cobi-location-slash-duotone:after {
+  content: "\ecd8";
+}
+.cobi-location-slash-fill:before {
+  content: "\ecd9";
+}
+.cobi-location-slash-outline:before {
+  content: "\ecda";
+}
+.cobi-location-tick-duotone:before {
+  content: "\ecdb";
+}
+.cobi-location-tick-duotone:after {
+  content: "\ecdc";
+}
+.cobi-location-tick-fill:before {
+  content: "\ecdd";
+}
+.cobi-location-tick-outline:before {
+  content: "\ecde";
+}
+.cobi-lock-1-duotone:before {
+  content: "\ecdf";
+}
+.cobi-lock-1-duotone:after {
+  content: "\ece0";
+}
+.cobi-lock-1-fill:before {
+  content: "\ece1";
+}
+.cobi-lock-1-outline:before {
+  content: "\ece2";
+}
+.cobi-lock-circle-duotone:before {
+  content: "\ece3";
+}
+.cobi-lock-circle-duotone:after {
+  content: "\ece4";
+}
+.cobi-lock-circle-fill:before {
+  content: "\ece5";
+}
+.cobi-lock-circle-outline:before {
+  content: "\ece6";
+}
+.cobi-lock-duotone:before {
+  content: "\ece7";
+}
+.cobi-lock-duotone:after {
+  content: "\ece8";
+}
+.cobi-lock-fill:before {
+  content: "\ece9";
+}
+.cobi-lock-outline:before {
+  content: "\ecea";
+}
+.cobi-lock-slash-duotone:before {
+  content: "\eceb";
+}
+.cobi-lock-slash-duotone:after {
+  content: "\ecec";
+}
+.cobi-lock-slash-fill:before {
+  content: "\eced";
+}
+.cobi-lock-slash-outline:before {
+  content: "\ecee";
+}
+.cobi-login-1-duotone:before {
+  content: "\ecef";
+}
+.cobi-login-1-duotone:after {
+  content: "\ecf0";
+}
+.cobi-login-1-fill:before {
+  content: "\ecf1";
+}
+.cobi-login-1-outline:before {
+  content: "\ecf2";
+}
+.cobi-login-duotone:before {
+  content: "\ecf3";
+}
+.cobi-login-duotone:after {
+  content: "\ecf4";
+}
+.cobi-login-fill:before {
+  content: "\ecf5";
+}
+.cobi-login-outline:before {
+  content: "\ecf6";
+}
+.cobi-logout-1-duotone:before {
+  content: "\ecf7";
+}
+.cobi-logout-1-duotone:after {
+  content: "\ecf8";
+}
+.cobi-logout-1-fill:before {
+  content: "\ecf9";
+}
+.cobi-logout-1-outline:before {
+  content: "\ecfa";
+}
+.cobi-logout-duotone:before {
+  content: "\ecfb";
+}
+.cobi-logout-duotone:after {
+  content: "\ecfc";
+}
+.cobi-logout-fill:before {
+  content: "\ecfd";
+}
+.cobi-logout-outline:before {
+  content: "\ecfe";
+}
+.cobi-lovely-duotone:before {
+  content: "\ecff";
+}
+.cobi-lovely-duotone:after {
+  content: "\ed00";
+}
+.cobi-lovely-fill:before {
+  content: "\ed01";
+}
+.cobi-lovely-outline:before {
+  content: "\ed02";
+}
+.cobi-magic-star-duotone:before {
+  content: "\ed03";
+}
+.cobi-magic-star-duotone:after {
+  content: "\ed04";
+}
+.cobi-magic-star-fill:before {
+  content: "\ed05";
+}
+.cobi-magic-star-outline:before {
+  content: "\ed06";
+}
+.cobi-mail-duotone:before {
+  content: "\ed07";
+}
+.cobi-mail-duotone:after {
+  content: "\ed08";
+}
+.cobi-mail-edit-duotone:before {
+  content: "\ed09";
+}
+.cobi-mail-edit-duotone:after {
+  content: "\ed0a";
+}
+.cobi-mail-edit-fill:before {
+  content: "\ed0b";
+}
+.cobi-mail-edit-outline:before {
+  content: "\ed0c";
+}
+.cobi-mail-fill:before {
+  content: "\ed0d";
+}
+.cobi-mail-notification-duotone:before {
+  content: "\ed0e";
+}
+.cobi-mail-notification-duotone:after {
+  content: "\ed0f";
+}
+.cobi-mail-notification-fill:before {
+  content: "\ed10";
+}
+.cobi-mail-notification-outline:before {
+  content: "\ed11";
+}
+.cobi-mail-outline:before {
+  content: "\ed12";
+}
+.cobi-mail-search-duotone:before {
+  content: "\ed13";
+}
+.cobi-mail-search-duotone:after {
+  content: "\ed14";
+}
+.cobi-mail-search-fill:before {
+  content: "\ed15";
+}
+.cobi-mail-search-outline:before {
+  content: "\ed16";
+}
+.cobi-mail-star-duotone:before {
+  content: "\ed17";
+}
+.cobi-mail-star-duotone:after {
+  content: "\ed18";
+}
+.cobi-mail-star-fill:before {
+  content: "\ed19";
+}
+.cobi-mail-star-outline:before {
+  content: "\ed1a";
+}
+.cobi-mail-tracking-duotone:before {
+  content: "\ed1b";
+}
+.cobi-mail-tracking-duotone:after {
+  content: "\ed1c";
+}
+.cobi-mail-tracking-fill:before {
+  content: "\ed1d";
+}
+.cobi-mail-tracking-outline:before {
+  content: "\ed1e";
+}
+.cobi-map-1-duotone:before {
+  content: "\ed1f";
+}
+.cobi-map-1-duotone:after {
+  content: "\ed20";
+}
+.cobi-map-1-fill:before {
+  content: "\ed21";
+}
+.cobi-map-1-outline:before {
+  content: "\ed22";
+}
+.cobi-map-duotone:before {
+  content: "\ed23";
+}
+.cobi-map-duotone:after {
+  content: "\ed24";
+}
+.cobi-map-fill:before {
+  content: "\ed25";
+}
+.cobi-map-outline:before {
+  content: "\ed26";
+}
+.cobi-math-duotone:before {
+  content: "\ed27";
+}
+.cobi-math-duotone:after {
+  content: "\ed28";
+}
+.cobi-math-fill:before {
+  content: "\ed29";
+}
+.cobi-math-outline:before {
+  content: "\ed2a";
+}
+.cobi-medal-duotone:before {
+  content: "\ed2b";
+}
+.cobi-medal-duotone:after {
+  content: "\ed2c";
+}
+.cobi-medal-fill:before {
+  content: "\ed2d";
+}
+.cobi-medal-outline:before {
+  content: "\ed2e";
+}
+.cobi-medal-star-duotone:before {
+  content: "\ed2f";
+}
+.cobi-medal-star-duotone:after {
+  content: "\ed30";
+}
+.cobi-medal-star-fill:before {
+  content: "\ed31";
+}
+.cobi-medal-star-outline:before {
+  content: "\ed32";
+}
+.cobi-menu-1-duotone:before {
+  content: "\ed33";
+}
+.cobi-menu-1-duotone:after {
+  content: "\ed34";
+}
+.cobi-menu-1-fill:before {
+  content: "\ed35";
+}
+.cobi-menu-1-outline:before {
+  content: "\ed36";
+}
+.cobi-menu-board-duotone:before {
+  content: "\ed37";
+}
+.cobi-menu-board-duotone:after {
+  content: "\ed38";
+}
+.cobi-menu-board-fill:before {
+  content: "\ed39";
+}
+.cobi-menu-board-outline:before {
+  content: "\ed3a";
+}
+.cobi-menu-duotone:before {
+  content: "\ed3b";
+}
+.cobi-menu-duotone:after {
+  content: "\ed3c";
+}
+.cobi-menu-fill:before {
+  content: "\ed3d";
+}
+.cobi-menu-outline:before {
+  content: "\ed3e";
+}
+.cobi-message-2-duotone:before {
+  content: "\ed3f";
+}
+.cobi-message-2-duotone:after {
+  content: "\ed40";
+}
+.cobi-message-2-fill:before {
+  content: "\ed41";
+}
+.cobi-message-2-outline:before {
+  content: "\ed42";
+}
+.cobi-message-add-1-duotone:before {
+  content: "\ed43";
+}
+.cobi-message-add-1-duotone:after {
+  content: "\ed44";
+}
+.cobi-message-add-1-fill:before {
+  content: "\ed45";
+}
+.cobi-message-add-1-outline:before {
+  content: "\ed46";
+}
+.cobi-message-add-duotone:before {
+  content: "\ed47";
+}
+.cobi-message-add-duotone:after {
+  content: "\ed48";
+}
+.cobi-message-add-fill:before {
+  content: "\ed49";
+}
+.cobi-message-add-outline:before {
+  content: "\ed4a";
+}
+.cobi-message-circle-duotone:before {
+  content: "\ed4b";
+}
+.cobi-message-circle-duotone:after {
+  content: "\ed4c";
+}
+.cobi-message-circle-fill:before {
+  content: "\ed4d";
+}
+.cobi-message-circle-outline:before {
+  content: "\ed4e";
+}
+.cobi-message-duotone:before {
+  content: "\ed4f";
+}
+.cobi-message-duotone:after {
+  content: "\ed50";
+}
+.cobi-message-edit-duotone:before {
+  content: "\ed51";
+}
+.cobi-message-edit-duotone:after {
+  content: "\ed52";
+}
+.cobi-message-edit-fill:before {
+  content: "\ed53";
+}
+.cobi-message-edit-outline:before {
+  content: "\ed54";
+}
+.cobi-message-favorite-duotone:before {
+  content: "\ed55";
+}
+.cobi-message-favorite-duotone:after {
+  content: "\ed56";
+}
+.cobi-message-favorite-fill:before {
+  content: "\ed57";
+}
+.cobi-message-favorite-outline:before {
+  content: "\ed58";
+}
+.cobi-message-fill:before {
+  content: "\ed59";
+}
+.cobi-message-minus-duotone:before {
+  content: "\ed5a";
+}
+.cobi-message-minus-duotone:after {
+  content: "\ed5b";
+}
+.cobi-message-minus-fill:before {
+  content: "\ed5c";
+}
+.cobi-message-minus-outline:before {
+  content: "\ed5d";
+}
+.cobi-message-notif-duotone:before {
+  content: "\ed5e";
+}
+.cobi-message-notif-duotone:after {
+  content: "\ed5f";
+}
+.cobi-message-notif-fill:before {
+  content: "\ed60";
+}
+.cobi-message-notif-outline:before {
+  content: "\ed61";
+}
+.cobi-message-outline:before {
+  content: "\ed62";
+}
+.cobi-message-question-duotone:before {
+  content: "\ed63";
+}
+.cobi-message-question-duotone:after {
+  content: "\ed64";
+}
+.cobi-message-question-fill:before {
+  content: "\ed65";
+}
+.cobi-message-question-outline:before {
+  content: "\ed66";
+}
+.cobi-message-remove-duotone:before {
+  content: "\ed67";
+}
+.cobi-message-remove-duotone:after {
+  content: "\ed68";
+}
+.cobi-message-remove-fill:before {
+  content: "\ed69";
+}
+.cobi-message-remove-outline:before {
+  content: "\ed6a";
+}
+.cobi-messages-1-duotone:before {
+  content: "\ed6b";
+}
+.cobi-messages-1-duotone:after {
+  content: "\ed6c";
+}
+.cobi-messages-1-fill:before {
+  content: "\ed6d";
+}
+.cobi-messages-1-outline:before {
+  content: "\ed6e";
+}
+.cobi-messages-2-duotone:before {
+  content: "\ed6f";
+}
+.cobi-messages-2-duotone:after {
+  content: "\ed70";
+}
+.cobi-messages-2-fill:before {
+  content: "\ed71";
+}
+.cobi-messages-2-outline:before {
+  content: "\ed72";
+}
+.cobi-messages-3-duotone:before {
+  content: "\ed73";
+}
+.cobi-messages-3-duotone:after {
+  content: "\ed74";
+}
+.cobi-messages-3-fill:before {
+  content: "\ed75";
+}
+.cobi-messages-3-outline:before {
+  content: "\ed76";
+}
+.cobi-messages-duotone:before {
+  content: "\ed77";
+}
+.cobi-messages-duotone:after {
+  content: "\ed78";
+}
+.cobi-message-search-duotone:before {
+  content: "\ed79";
+}
+.cobi-message-search-duotone:after {
+  content: "\ed7a";
+}
+.cobi-message-search-fill:before {
+  content: "\ed7b";
+}
+.cobi-message-search-outline:before {
+  content: "\ed7c";
+}
+.cobi-messages-fill:before {
+  content: "\ed7d";
+}
+.cobi-messages-outline:before {
+  content: "\ed7e";
+}
+.cobi-message-square-duotone:before {
+  content: "\ed7f";
+}
+.cobi-message-square-duotone:after {
+  content: "\ed80";
+}
+.cobi-message-square-fill:before {
+  content: "\ed81";
+}
+.cobi-message-square-outline:before {
+  content: "\ed82";
+}
+.cobi-message-text-1-duotone:before {
+  content: "\ed83";
+}
+.cobi-message-text-1-duotone:after {
+  content: "\ed84";
+}
+.cobi-message-text-1-fill:before {
+  content: "\ed85";
+}
+.cobi-message-text-1-outline:before {
+  content: "\ed86";
+}
+.cobi-message-text-duotone:before {
+  content: "\ed87";
+}
+.cobi-message-text-duotone:after {
+  content: "\ed88";
+}
+.cobi-message-text-fill:before {
+  content: "\ed89";
+}
+.cobi-message-text-outline:before {
+  content: "\ed8a";
+}
+.cobi-message-tick-duotone:before {
+  content: "\ed8b";
+}
+.cobi-message-tick-duotone:after {
+  content: "\ed8c";
+}
+.cobi-message-tick-fill:before {
+  content: "\ed8d";
+}
+.cobi-message-tick-outline:before {
+  content: "\ed8e";
+}
+.cobi-message-time-duotone:before {
+  content: "\ed8f";
+}
+.cobi-message-time-duotone:after {
+  content: "\ed90";
+}
+.cobi-message-time-fill:before {
+  content: "\ed91";
+}
+.cobi-message-time-outline:before {
+  content: "\ed92";
+}
+.cobi-messenger-duotone:before {
+  content: "\ed93";
+}
+.cobi-messenger-duotone:after {
+  content: "\ed94";
+}
+.cobi-messenger-fill:before {
+  content: "\ed95";
+}
+.cobi-messenger-outline:before {
+  content: "\ed96";
+}
+.cobi-microphone-2-duotone:before {
+  content: "\ed97";
+}
+.cobi-microphone-2-duotone:after {
+  content: "\ed98";
+}
+.cobi-microphone-2-fill:before {
+  content: "\ed99";
+}
+.cobi-microphone-2-outline:before {
+  content: "\ed9a";
+}
+.cobi-microphone-duotone:before {
+  content: "\ed9b";
+}
+.cobi-microphone-duotone:after {
+  content: "\ed9c";
+}
+.cobi-microphone-fill:before {
+  content: "\ed9d";
+}
+.cobi-microphone-outline:before {
+  content: "\ed9e";
+}
+.cobi-microphone-slash-1-duotone:before {
+  content: "\ed9f";
+}
+.cobi-microphone-slash-1-duotone:after {
+  content: "\eda0";
+}
+.cobi-microphone-slash-1-fill:before {
+  content: "\eda1";
+}
+.cobi-microphone-slash-1-outline:before {
+  content: "\eda2";
+}
+.cobi-microphone-slash-duotone:before {
+  content: "\eda3";
+}
+.cobi-microphone-slash-duotone:after {
+  content: "\eda4";
+}
+.cobi-microphone-slash-fill:before {
+  content: "\eda5";
+}
+.cobi-microphone-slash-outline:before {
+  content: "\eda6";
+}
+.cobi-minus-cirlce-duotone:before {
+  content: "\eda7";
+}
+.cobi-minus-cirlce-duotone:after {
+  content: "\eda8";
+}
+.cobi-minus-cirlce-fill:before {
+  content: "\eda9";
+}
+.cobi-minus-cirlce-outline:before {
+  content: "\edaa";
+}
+.cobi-minus-duotone:before {
+  content: "\edab";
+}
+.cobi-minus-duotone:after {
+  content: "\edac";
+}
+.cobi-minus-fill:before {
+  content: "\edad";
+}
+.cobi-minus-outline:before {
+  content: "\edae";
+}
+.cobi-minus-square-duotone:before {
+  content: "\edaf";
+}
+.cobi-minus-square-duotone:after {
+  content: "\edb0";
+}
+.cobi-minus-square-fill:before {
+  content: "\edb1";
+}
+.cobi-minus-square-outline:before {
+  content: "\edb2";
+}
+.cobi-money-2-duotone:before {
+  content: "\edb3";
+}
+.cobi-money-2-duotone:after {
+  content: "\edb4";
+}
+.cobi-money-2-fill:before {
+  content: "\edb5";
+}
+.cobi-money-2-outline:before {
+  content: "\edb6";
+}
+.cobi-money-3-duotone:before {
+  content: "\edb7";
+}
+.cobi-money-3-duotone:after {
+  content: "\edb8";
+}
+.cobi-money-3-fill:before {
+  content: "\edb9";
+}
+.cobi-money-3-outline:before {
+  content: "\edba";
+}
+.cobi-money-4-duotone:before {
+  content: "\edbb";
+}
+.cobi-money-4-duotone:after {
+  content: "\edbc";
+}
+.cobi-money-4-fill:before {
+  content: "\edbd";
+}
+.cobi-money-4-outline:before {
+  content: "\edbe";
+}
+.cobi-money-add-duotone:before {
+  content: "\edbf";
+}
+.cobi-money-add-duotone:after {
+  content: "\edc0";
+}
+.cobi-money-add-fill:before {
+  content: "\edc1";
+}
+.cobi-money-add-outline:before {
+  content: "\edc2";
+}
+.cobi-money-change-duotone:before {
+  content: "\edc3";
+}
+.cobi-money-change-duotone:after {
+  content: "\edc4";
+}
+.cobi-money-change-fill:before {
+  content: "\edc5";
+}
+.cobi-money-change-outline:before {
+  content: "\edc6";
+}
+.cobi-money-duotone:before {
+  content: "\edc7";
+}
+.cobi-money-duotone:after {
+  content: "\edc8";
+}
+.cobi-money-fill:before {
+  content: "\edc9";
+}
+.cobi-money-forbidden-duotone:before {
+  content: "\edca";
+}
+.cobi-money-forbidden-duotone:after {
+  content: "\edcb";
+}
+.cobi-money-forbidden-fill:before {
+  content: "\edcc";
+}
+.cobi-money-forbidden-outline:before {
+  content: "\edcd";
+}
+.cobi-money-outline:before {
+  content: "\edce";
+}
+.cobi-money-recive-duotone:before {
+  content: "\edcf";
+}
+.cobi-money-recive-duotone:after {
+  content: "\edd0";
+}
+.cobi-money-recive-fill:before {
+  content: "\edd1";
+}
+.cobi-money-recive-outline:before {
+  content: "\edd2";
+}
+.cobi-money-remove-duotone:before {
+  content: "\edd3";
+}
+.cobi-money-remove-duotone:after {
+  content: "\edd4";
+}
+.cobi-money-remove-fill:before {
+  content: "\edd5";
+}
+.cobi-money-remove-outline:before {
+  content: "\edd6";
+}
+.cobi-moneys-duotone:before {
+  content: "\edd7";
+}
+.cobi-moneys-duotone:after {
+  content: "\edd8";
+}
+.cobi-money-send-duotone:before {
+  content: "\edd9";
+}
+.cobi-money-send-duotone:after {
+  content: "\edda";
+}
+.cobi-money-send-fill:before {
+  content: "\eddb";
+}
+.cobi-money-send-outline:before {
+  content: "\eddc";
+}
+.cobi-moneys-fill:before {
+  content: "\eddd";
+}
+.cobi-moneys-outline:before {
+  content: "\edde";
+}
+.cobi-money-tick-duotone:before {
+  content: "\eddf";
+}
+.cobi-money-tick-duotone:after {
+  content: "\ede0";
+}
+.cobi-money-tick-fill:before {
+  content: "\ede1";
+}
+.cobi-money-tick-outline:before {
+  content: "\ede2";
+}
+.cobi-money-time-duotone:before {
+  content: "\ede3";
+}
+.cobi-money-time-duotone:after {
+  content: "\ede4";
+}
+.cobi-money-time-fill:before {
+  content: "\ede5";
+}
+.cobi-money-time-outline:before {
+  content: "\ede6";
+}
+.cobi-more-2-duotone:before {
+  content: "\ede7";
+
+  opacity: 0.97;
+}
+.cobi-more-2-duotone:after {
+  content: "\ede8";
+}
+.cobi-more-2-fill:before {
+  content: "\ede9";
+}
+.cobi-more-2-outline:before {
+  content: "\edea";
+}
+.cobi-more-circle-duotone:before {
+  content: "\edeb";
+}
+.cobi-more-circle-duotone:after {
+  content: "\edec";
+}
+.cobi-more-circle-fill:before {
+  content: "\eded";
+}
+.cobi-more-circle-outline:before {
+  content: "\edee";
+}
+.cobi-more-duotone:before {
+  content: "\edef";
+}
+.cobi-more-duotone:after {
+  content: "\edf0";
+}
+.cobi-more-fill:before {
+  content: "\edf1";
+}
+.cobi-more-outline:before {
+  content: "\edf2";
+}
+.cobi-more-square-duotone:before {
+  content: "\edf3";
+}
+.cobi-more-square-duotone:after {
+  content: "\edf4";
+}
+.cobi-more-square-fill:before {
+  content: "\edf5";
+}
+.cobi-more-square-outline:before {
+  content: "\edf6";
+}
+.cobi-note-1-duotone:before {
+  content: "\edf7";
+}
+.cobi-note-1-duotone:after {
+  content: "\edf8";
+}
+.cobi-note-1-fill:before {
+  content: "\edf9";
+}
+.cobi-note-1-outline:before {
+  content: "\edfa";
+}
+.cobi-note-2-duotone:before {
+  content: "\edfb";
+}
+.cobi-note-2-duotone:after {
+  content: "\edfc";
+}
+.cobi-note-2-fill:before {
+  content: "\edfd";
+}
+.cobi-note-2-outline:before {
+  content: "\edfe";
+}
+.cobi-note-add-duotone:before {
+  content: "\edff";
+}
+.cobi-note-add-duotone:after {
+  content: "\ee00";
+}
+.cobi-note-add-fill:before {
+  content: "\ee01";
+}
+.cobi-note-add-outline:before {
+  content: "\ee02";
+}
+.cobi-note-duotone:before {
+  content: "\ee03";
+}
+.cobi-note-duotone:after {
+  content: "\ee04";
+}
+.cobi-note-fill:before {
+  content: "\ee05";
+}
+.cobi-note-outline:before {
+  content: "\ee06";
+}
+.cobi-note-remove-duotone:before {
+  content: "\ee07";
+}
+.cobi-note-remove-duotone:after {
+  content: "\ee08";
+}
+.cobi-note-remove-fill:before {
+  content: "\ee09";
+}
+.cobi-note-remove-outline:before {
+  content: "\ee0a";
+}
+.cobi-note-text-duotone:before {
+  content: "\ee0b";
+}
+.cobi-note-text-duotone:after {
+  content: "\ee0c";
+}
+.cobi-note-text-fill:before {
+  content: "\ee0d";
+}
+.cobi-note-text-outline:before {
+  content: "\ee0e";
+}
+.cobi-notification-1-duotone:before {
+  content: "\ee0f";
+}
+.cobi-notification-1-duotone:after {
+  content: "\ee10";
+}
+.cobi-notification-1-fill:before {
+  content: "\ee11";
+}
+.cobi-notification-1-outline:before {
+  content: "\ee12";
+}
+.cobi-notification-bing-duotone:before {
+  content: "\ee13";
+}
+.cobi-notification-bing-duotone:after {
+  content: "\ee14";
+}
+.cobi-notification-bing-fill:before {
+  content: "\ee15";
+}
+.cobi-notification-bing-outline:before {
+  content: "\ee16";
+}
+.cobi-notification-circle-duotone:before {
+  content: "\ee17";
+}
+.cobi-notification-circle-duotone:after {
+  content: "\ee18";
+}
+.cobi-notification-circle-fill:before {
+  content: "\ee19";
+}
+.cobi-notification-circle-outline:before {
+  content: "\ee1a";
+}
+.cobi-notification-duotone:before {
+  content: "\ee1b";
+}
+.cobi-notification-duotone:after {
+  content: "\ee1c";
+}
+.cobi-notification-fill:before {
+  content: "\ee1d";
+}
+.cobi-notification-outline:before {
+  content: "\ee1e";
+}
+.cobi-notification-status-duotone:before {
+  content: "\ee1f";
+}
+.cobi-notification-status-duotone:after {
+  content: "\ee20";
+}
+.cobi-notification-status-fill:before {
+  content: "\ee21";
+}
+.cobi-notification-status-outline:before {
+  content: "\ee22";
+}
+.cobi-pause-circle-duotone:before {
+  content: "\ee23";
+}
+.cobi-pause-circle-duotone:after {
+  content: "\ee24";
+}
+.cobi-pause-duotone:before {
+  content: "\ee25";
+}
+.cobi-pause-duotone:after {
+  content: "\ee26";
+}
+.cobi-paypal-duotone:before {
+  content: "\ee27";
+}
+.cobi-paypal-duotone:after {
+  content: "\ee28";
+}
+.cobi-paypal-fill:before {
+  content: "\ee29";
+}
+.cobi-paypal-outline:before {
+  content: "\ee2a";
+}
+.cobi-paytm-fill:before {
+  content: "\ee2b";
+}
+.cobi-people-1-duotone:before {
+  content: "\ee2c";
+}
+.cobi-people-1-duotone:after {
+  content: "\ee2d";
+}
+.cobi-people-1-fill:before {
+  content: "\ee2e";
+}
+.cobi-people-1-outline:before {
+  content: "\ee2f";
+}
+.cobi-people-duotone:before {
+  content: "\ee30";
+}
+.cobi-people-duotone:after {
+  content: "\ee31";
+}
+.cobi-people-fill:before {
+  content: "\ee32";
+}
+.cobi-people-outline:before {
+  content: "\ee33";
+}
+.cobi-percentage-circle-duotone:before {
+  content: "\ee34";
+}
+.cobi-percentage-circle-duotone:after {
+  content: "\ee35";
+}
+.cobi-percentage-circle-fill:before {
+  content: "\ee36";
+}
+.cobi-percentage-circle-outline:before {
+  content: "\ee37";
+}
+.cobi-percentage-square-duotone:before {
+  content: "\ee38";
+}
+.cobi-percentage-square-duotone:after {
+  content: "\ee39";
+}
+.cobi-percentage-square-fill:before {
+  content: "\ee3a";
+}
+.cobi-percentage-square-outline:before {
+  content: "\ee3b";
+}
+.cobi-phonepe-fill:before {
+  content: "\ee3c";
+}
+.cobi-pie-chart-duotone:before {
+  content: "\ee3d";
+}
+.cobi-pie-chart-duotone:after {
+  content: "\ee3e";
+}
+.cobi-pie-chart-fill:before {
+  content: "\ee3f";
+}
+.cobi-pie-chart-outline:before {
+  content: "\ee40";
+}
+.cobi-play-circle-duotone:before {
+  content: "\ee41";
+}
+.cobi-play-circle-duotone:after {
+  content: "\ee42";
+}
+.cobi-play-duotone:before {
+  content: "\ee43";
+}
+.cobi-play-duotone:after {
+  content: "\ee44";
+}
+.cobi-radar-duotone:before {
+  content: "\ee45";
+}
+.cobi-radar-duotone:after {
+  content: "\ee46";
+}
+.cobi-radar-fill:before {
+  content: "\ee47";
+}
+.cobi-radar-outline:before {
+  content: "\ee48";
+}
+.cobi-ranking-1-duotone:before {
+  content: "\ee49";
+}
+.cobi-ranking-1-duotone:after {
+  content: "\ee4a";
+}
+.cobi-ranking-1-fill:before {
+  content: "\ee4b";
+}
+.cobi-ranking-1-outline:before {
+  content: "\ee4c";
+}
+.cobi-ranking-duotone:before {
+  content: "\ee4d";
+}
+.cobi-ranking-duotone:after {
+  content: "\ee4e";
+}
+.cobi-ranking-fill:before {
+  content: "\ee4f";
+}
+.cobi-ranking-outline:before {
+  content: "\ee50";
+}
+.cobi-receipt-1-duotone:before {
+  content: "\ee51";
+}
+.cobi-receipt-1-duotone:after {
+  content: "\ee52";
+}
+.cobi-receipt-1-fill:before {
+  content: "\ee53";
+}
+.cobi-receipt-1-outline:before {
+  content: "\ee54";
+}
+.cobi-receipt-2-1-duotone:before {
+  content: "\ee55";
+}
+.cobi-receipt-2-1-duotone:after {
+  content: "\ee56";
+}
+.cobi-receipt-2-1-fill:before {
+  content: "\ee57";
+}
+.cobi-receipt-2-1-outline:before {
+  content: "\ee58";
+}
+.cobi-receipt-2-duotone:before {
+  content: "\ee59";
+}
+.cobi-receipt-2-duotone:after {
+  content: "\ee5a";
+}
+.cobi-receipt-2-fill:before {
+  content: "\ee5b";
+}
+.cobi-receipt-2-outline:before {
+  content: "\ee5c";
+}
+.cobi-receipt-add-duotone:before {
+  content: "\ee5d";
+}
+.cobi-receipt-add-duotone:after {
+  content: "\ee5e";
+}
+.cobi-receipt-add-fill:before {
+  content: "\ee5f";
+}
+.cobi-receipt-add-outline:before {
+  content: "\ee60";
+}
+.cobi-receipt-discount-duotone:before {
+  content: "\ee61";
+}
+.cobi-receipt-discount-duotone:after {
+  content: "\ee62";
+}
+.cobi-receipt-discount-fill:before {
+  content: "\ee63";
+}
+.cobi-receipt-discount-outline:before {
+  content: "\ee64";
+}
+.cobi-receipt-disscount-duotone:before {
+  content: "\ee65";
+}
+.cobi-receipt-disscount-duotone:after {
+  content: "\ee66";
+}
+.cobi-receipt-disscount-fill:before {
+  content: "\ee67";
+}
+.cobi-receipt-disscount-outline:before {
+  content: "\ee68";
+}
+.cobi-receipt-duotone:before {
+  content: "\ee69";
+}
+.cobi-receipt-duotone:after {
+  content: "\ee6a";
+}
+.cobi-receipt-edit-duotone:before {
+  content: "\ee6b";
+}
+.cobi-receipt-edit-duotone:after {
+  content: "\ee6c";
+}
+.cobi-receipt-edit-fill:before {
+  content: "\ee6d";
+}
+.cobi-receipt-edit-outline:before {
+  content: "\ee6e";
+}
+.cobi-receipt-fill:before {
+  content: "\ee6f";
+}
+.cobi-receipt-item-duotone:before {
+  content: "\ee70";
+}
+.cobi-receipt-item-duotone:after {
+  content: "\ee71";
+}
+.cobi-receipt-item-fill:before {
+  content: "\ee72";
+}
+.cobi-receipt-item-outline:before {
+  content: "\ee73";
+}
+.cobi-receipt-minus-duotone:before {
+  content: "\ee74";
+}
+.cobi-receipt-minus-duotone:after {
+  content: "\ee75";
+}
+.cobi-receipt-minus-fill:before {
+  content: "\ee76";
+}
+.cobi-receipt-minus-outline:before {
+  content: "\ee77";
+}
+.cobi-receipt-outline:before {
+  content: "\ee78";
+}
+.cobi-receipt-search-duotone:before {
+  content: "\ee79";
+}
+.cobi-receipt-search-duotone:after {
+  content: "\ee7a";
+}
+.cobi-receipt-search-fill:before {
+  content: "\ee7b";
+}
+.cobi-receipt-search-outline:before {
+  content: "\ee7c";
+}
+.cobi-receipt-square-duotone:before {
+  content: "\ee7d";
+}
+.cobi-receipt-square-duotone:after {
+  content: "\ee7e";
+}
+.cobi-receipt-square-fill:before {
+  content: "\ee7f";
+}
+.cobi-receipt-square-outline:before {
+  content: "\ee80";
+}
+.cobi-receipt-text-duotone:before {
+  content: "\ee81";
+}
+.cobi-receipt-text-duotone:after {
+  content: "\ee82";
+}
+.cobi-receipt-text-fill:before {
+  content: "\ee83";
+}
+.cobi-receipt-text-outline:before {
+  content: "\ee84";
+}
+.cobi-received-duotone:before {
+  content: "\ee85";
+}
+.cobi-received-duotone:after {
+  content: "\ee86";
+}
+.cobi-received-outline:before {
+  content: "\ee87";
+}
+.cobi-receive-square-2-duotone:before {
+  content: "\ee88";
+}
+.cobi-receive-square-2-duotone:after {
+  content: "\ee89";
+}
+.cobi-receive-square-2-fill:before {
+  content: "\ee8a";
+}
+.cobi-receive-square-2-outline:before {
+  content: "\ee8b";
+}
+.cobi-receive-square-duotone:before {
+  content: "\ee8c";
+}
+.cobi-receive-square-duotone:after {
+  content: "\ee8d";
+}
+.cobi-receive-square-fill:before {
+  content: "\ee8e";
+}
+.cobi-receive-square-outline:before {
+  content: "\ee8f";
+}
+.cobi-redo-duotone:before {
+  content: "\ee90";
+}
+.cobi-redo-duotone:after {
+  content: "\ee91";
+}
+.cobi-redo-fill:before {
+  content: "\ee92";
+}
+.cobi-redo-outline:before {
+  content: "\ee93";
+}
+.cobi-refresh-2-duotone:before {
+  content: "\ee94";
+}
+.cobi-refresh-2-duotone:after {
+  content: "\ee95";
+}
+.cobi-refresh-2-fill:before {
+  content: "\ee96";
+}
+.cobi-refresh-2-outline:before {
+  content: "\ee97";
+}
+.cobi-refresh-circle-duotone:before {
+  content: "\ee98";
+}
+.cobi-refresh-circle-duotone:after {
+  content: "\ee99";
+}
+.cobi-refresh-circle-fill:before {
+  content: "\ee9a";
+}
+.cobi-refresh-circle-outline:before {
+  content: "\ee9b";
+}
+.cobi-refresh-duotone:before {
+  content: "\ee9c";
+}
+.cobi-refresh-duotone:after {
+  content: "\ee9d";
+}
+.cobi-refresh-fill:before {
+  content: "\ee9e";
+}
+.cobi-refresh-left-square-duotone:before {
+  content: "\ee9f";
+}
+.cobi-refresh-left-square-duotone:after {
+  content: "\eea0";
+}
+.cobi-refresh-left-square-fill:before {
+  content: "\eea1";
+}
+.cobi-refresh-left-square-outline:before {
+  content: "\eea2";
+}
+.cobi-refresh-outline:before {
+  content: "\eea3";
+}
+.cobi-refresh-right-square-duotone:before {
+  content: "\eea4";
+}
+.cobi-refresh-right-square-duotone:after {
+  content: "\eea5";
+}
+.cobi-refresh-right-square-fill:before {
+  content: "\eea6";
+}
+.cobi-refresh-right-square-outline:before {
+  content: "\eea7";
+}
+.cobi-refresh-square-2-duotone:before {
+  content: "\eea8";
+}
+.cobi-refresh-square-2-duotone:after {
+  content: "\eea9";
+}
+.cobi-refresh-square-2-fill:before {
+  content: "\eeaa";
+}
+.cobi-refresh-square-2-outline:before {
+  content: "\eeab";
+}
+.cobi-repeat-circle-duotone:before {
+  content: "\eeac";
+}
+.cobi-repeat-circle-duotone:after {
+  content: "\eead";
+}
+.cobi-repeat-circle-fill:before {
+  content: "\eeae";
+}
+.cobi-repeat-circle-outline:before {
+  content: "\eeaf";
+}
+.cobi-repeat-duotone:before {
+  content: "\eeb0";
+}
+.cobi-repeat-duotone:after {
+  content: "\eeb1";
+}
+.cobi-repeat-fill-outline:before {
+  content: "\eeb2";
+}
+.cobi-repeat-outline:before {
+  content: "\eeb3";
+}
+.cobi-rotate-left-duotone:before {
+  content: "\eeb4";
+}
+.cobi-rotate-left-duotone:after {
+  content: "\eeb5";
+}
+.cobi-rotate-left-fill:before {
+  content: "\eeb6";
+}
+.cobi-rotate-left-outline:before {
+  content: "\eeb7";
+}
+.cobi-rotate-right-duotone:before {
+  content: "\eeb8";
+}
+.cobi-rotate-right-duotone:after {
+  content: "\eeb9";
+}
+.cobi-rotate-right-fill:before {
+  content: "\eeba";
+}
+.cobi-rotate-right-outline:before {
+  content: "\eebb";
+}
+.cobi-route-square-duotone:before {
+  content: "\eebc";
+}
+.cobi-route-square-duotone:after {
+  content: "\eebd";
+}
+.cobi-route-square-fill:before {
+  content: "\eebe";
+}
+.cobi-route-square-outline:before {
+  content: "\eebf";
+}
+.cobi-rupee-circle-duotone:before {
+  content: "\eec0";
+}
+.cobi-rupee-circle-duotone:after {
+  content: "\eec1";
+  margin-left: -1.0419921875em;
+}
+.cobi-rupee-circle-fill:before {
+  content: "\eec2";
+}
+.cobi-rupee-circle-outline:before {
+  content: "\eec3";
+}
+.cobi-rupee-recive-duotone:before {
+  content: "\eec4";
+}
+.cobi-rupee-recive-duotone:after {
+  content: "\eec5";
+  margin-left: -1.0419921875em;
+}
+.cobi-rupee-recive-fill:before {
+  content: "\eec6";
+}
+.cobi-rupee-recive-outline:before {
+  content: "\eec7";
+}
+.cobi-rupee-send-duotone:before {
+  content: "\eec8";
+}
+.cobi-rupee-send-duotone:after {
+  content: "\eec9";
+  margin-left: -1.0419921875em;
+}
+.cobi-rupee-send-fill:before {
+  content: "\eeca";
+}
+.cobi-rupee-send-outline:before {
+  content: "\eecb";
+}
+.cobi-rupee-square-duotone:before {
+  content: "\eecc";
+}
+.cobi-rupee-square-duotone:after {
+  content: "\eecd";
+  margin-left: -1.0419921875em;
+}
+.cobi-rupee-square-fill:before {
+  content: "\eece";
+}
+.cobi-rupee-square-outline:before {
+  content: "\eecf";
+}
+.cobi-safe-home-duotone:before {
+  content: "\eed0";
+}
+.cobi-safe-home-duotone:after {
+  content: "\eed1";
+}
+.cobi-safe-home-fill:before {
+  content: "\eed2";
+}
+.cobi-safe-home-outline:before {
+  content: "\eed3";
+}
+.cobi-save-2-duotone:before {
+  content: "\eed4";
+}
+.cobi-save-2-duotone:after {
+  content: "\eed5";
+}
+.cobi-save-2-fill:before {
+  content: "\eed6";
+}
+.cobi-save-2-outline:before {
+  content: "\eed7";
+}
+.cobi-save-add-duotone:before {
+  content: "\eed8";
+}
+.cobi-save-add-duotone:after {
+  content: "\eed9";
+}
+.cobi-save-add-fill:before {
+  content: "\eeda";
+}
+.cobi-save-add-outline:before {
+  content: "\eedb";
+}
+.cobi-save-minus-duotone:before {
+  content: "\eedc";
+}
+.cobi-save-minus-duotone:after {
+  content: "\eedd";
+}
+.cobi-save-minus-fill:before {
+  content: "\eede";
+}
+.cobi-save-minus-outline:before {
+  content: "\eedf";
+}
+.cobi-save-remove-duotone:before {
+  content: "\eee0";
+}
+.cobi-save-remove-duotone:after {
+  content: "\eee1";
+}
+.cobi-save-remove-fill:before {
+  content: "\eee2";
+}
+.cobi-save-remove-outline:before {
+  content: "\eee3";
+}
+.cobi-scan-barcode-duotone:before {
+  content: "\eee4";
+}
+.cobi-scan-barcode-duotone:after {
+  content: "\eee5";
+}
+.cobi-scan-barcode-fill:before {
+  content: "\eee6";
+}
+.cobi-scan-barcode-outline:before {
+  content: "\eee7";
+}
+.cobi-scan-duotone:before {
+  content: "\eee8";
+}
+.cobi-scan-duotone:after {
+  content: "\eee9";
+}
+.cobi-scan-fill:before {
+  content: "\eeea";
+}
+.cobi-scanner-duotone:before {
+  content: "\eeeb";
+}
+.cobi-scanner-duotone:after {
+  content: "\eeec";
+}
+.cobi-scanner-fill:before {
+  content: "\eeed";
+}
+.cobi-scanner-outline:before {
+  content: "\eeee";
+}
+.cobi-scan-outline:before {
+  content: "\eeef";
+}
+.cobi-search-favorite-1-duotone:before {
+  content: "\eef0";
+}
+.cobi-search-favorite-1-duotone:after {
+  content: "\eef1";
+}
+.cobi-search-favorite-1-fill:before {
+  content: "\eef2";
+}
+.cobi-search-favorite-1-outline:before {
+  content: "\eef3";
+}
+.cobi-search-favorite-duotone:before {
+  content: "\eef4";
+}
+.cobi-search-favorite-duotone:after {
+  content: "\eef5";
+}
+.cobi-search-favorite-fill:before {
+  content: "\eef6";
+}
+.cobi-search-favorite-outline:before {
+  content: "\eef7";
+}
+.cobi-search-normal-1-duotone:before {
+  content: "\eef8";
+}
+.cobi-search-normal-1-duotone:after {
+  content: "\eef9";
+}
+.cobi-search-normal-1-fill:before {
+  content: "\eefa";
+}
+.cobi-search-normal-1-outline:before {
+  content: "\eefb";
+}
+.cobi-search-normal-duotone:before {
+  content: "\eefc";
+}
+.cobi-search-normal-duotone:after {
+  content: "\eefd";
+}
+.cobi-search-normal-fill:before {
+  content: "\eefe";
+}
+.cobi-search-normal-outline:before {
+  content: "\eeff";
+}
+.cobi-search-status-1-duotone:before {
+  content: "\ef00";
+}
+.cobi-search-status-1-duotone:after {
+  content: "\ef01";
+}
+.cobi-search-status-1-fill:before {
+  content: "\ef02";
+}
+.cobi-search-status-1-outline:before {
+  content: "\ef03";
+}
+.cobi-search-status-duotone:before {
+  content: "\ef04";
+}
+.cobi-search-status-duotone:after {
+  content: "\ef05";
+}
+.cobi-search-status-fill:before {
+  content: "\ef06";
+}
+.cobi-search-status-outline:before {
+  content: "\ef07";
+}
+.cobi-search-zoom-in-1-duotone:before {
+  content: "\ef08";
+}
+.cobi-search-zoom-in-1-duotone:after {
+  content: "\ef09";
+}
+.cobi-search-zoom-in-1-fill:before {
+  content: "\ef0a";
+}
+.cobi-search-zoom-in-1-outline:before {
+  content: "\ef0b";
+}
+.cobi-search-zoom-in-duotone:before {
+  content: "\ef0c";
+}
+.cobi-search-zoom-in-duotone:after {
+  content: "\ef0d";
+}
+.cobi-search-zoom-in-fill:before {
+  content: "\ef0e";
+}
+.cobi-search-zoom-in-outline:before {
+  content: "\ef0f";
+}
+.cobi-search-zoom-out-1-duotone:before {
+  content: "\ef10";
+}
+.cobi-search-zoom-out-1-duotone:after {
+  content: "\ef11";
+}
+.cobi-search-zoom-out-1-fill:before {
+  content: "\ef12";
+}
+.cobi-search-zoom-out-1-outline:before {
+  content: "\ef13";
+}
+.cobi-search-zoom-out-duotone:before {
+  content: "\ef14";
+}
+.cobi-search-zoom-out-duotone:after {
+  content: "\ef15";
+}
+.cobi-search-zoom-out-fill:before {
+  content: "\ef16";
+}
+.cobi-search-zoom-out-outline:before {
+  content: "\ef17";
+}
+.cobi-security-card-duotone:before {
+  content: "\ef18";
+}
+.cobi-security-card-duotone:after {
+  content: "\ef19";
+}
+.cobi-security-card-fill:before {
+  content: "\ef1a";
+}
+.cobi-security-card-outline:before {
+  content: "\ef1b";
+}
+.cobi-security-duotone:before {
+  content: "\ef1c";
+}
+.cobi-security-duotone:after {
+  content: "\ef1d";
+}
+.cobi-security-fill:before {
+  content: "\ef1e";
+}
+.cobi-security-outline:before {
+  content: "\ef1f";
+}
+.cobi-security-safe-duotone:before {
+  content: "\ef20";
+}
+.cobi-security-safe-duotone:after {
+  content: "\ef21";
+}
+.cobi-security-safe-fill:before {
+  content: "\ef22";
+}
+.cobi-security-safe-outline:before {
+  content: "\ef23";
+}
+.cobi-security-time-duotone:before {
+  content: "\ef24";
+}
+.cobi-security-time-duotone:after {
+  content: "\ef25";
+}
+.cobi-security-time-fill:before {
+  content: "\ef26";
+}
+.cobi-security-time-outline:before {
+  content: "\ef27";
+}
+.cobi-security-user-duotone:before {
+  content: "\ef28";
+}
+.cobi-security-user-duotone:after {
+  content: "\ef29";
+}
+.cobi-security-user-fill:before {
+  content: "\ef2a";
+}
+.cobi-security-user-outline:before {
+  content: "\ef2b";
+}
+.cobi-send-1-duotone:before {
+  content: "\ef2c";
+}
+.cobi-send-1-duotone:after {
+  content: "\ef2d";
+}
+.cobi-send-1-fill:before {
+  content: "\ef2e";
+}
+.cobi-send-1-outline:before {
+  content: "\ef2f";
+}
+.cobi-send-2-duotone:before {
+  content: "\ef30";
+}
+.cobi-send-2-duotone:after {
+  content: "\ef31";
+}
+.cobi-send-2-fill:before {
+  content: "\ef32";
+}
+.cobi-send-2-outline:before {
+  content: "\ef33";
+}
+.cobi-send-duotone:before {
+  content: "\ef34";
+}
+.cobi-send-duotone:after {
+  content: "\ef35";
+}
+.cobi-send-outline:before {
+  content: "\ef36";
+}
+.cobi-send-sqaure-2-fill:before {
+  content: "\ef37";
+}
+.cobi-send-sqaure-2-outline:before {
+  content: "\ef38";
+}
+.cobi-send-square-1-duotone:before {
+  content: "\ef39";
+}
+.cobi-send-square-1-duotone:after {
+  content: "\ef3a";
+}
+.cobi-send-square-duotone:before {
+  content: "\ef3b";
+}
+.cobi-send-square-duotone:after {
+  content: "\ef3c";
+}
+.cobi-send-square-fill:before {
+  content: "\ef3d";
+}
+.cobi-send-square-outline:before {
+  content: "\ef3e";
+}
+.cobi-setting-2-duotone:before {
+  content: "\ef3f";
+}
+.cobi-setting-2-duotone:after {
+  content: "\ef40";
+}
+.cobi-setting-2-fill:before {
+  content: "\ef41";
+}
+.cobi-setting-2-outline:before {
+  content: "\ef42";
+}
+.cobi-setting-3-duotone:before {
+  content: "\ef43";
+}
+.cobi-setting-3-duotone:after {
+  content: "\ef44";
+}
+.cobi-setting-3-fill:before {
+  content: "\ef45";
+}
+.cobi-setting-3-outline:before {
+  content: "\ef46";
+}
+.cobi-setting-4-duotone:before {
+  content: "\ef47";
+}
+.cobi-setting-4-duotone:after {
+  content: "\ef48";
+}
+.cobi-setting-4-fill:before {
+  content: "\ef49";
+}
+.cobi-setting-4-outline:before {
+  content: "\ef4a";
+}
+.cobi-setting-duotone:before {
+  content: "\ef4b";
+}
+.cobi-setting-duotone:after {
+  content: "\ef4c";
+}
+.cobi-setting-fill:before {
+  content: "\ef4d";
+}
+.cobi-setting-outline:before {
+  content: "\ef4e";
+}
+.cobi-settings-duotone:before {
+  content: "\ef4f";
+}
+.cobi-settings-duotone:after {
+  content: "\ef50";
+}
+.cobi-settings-fill:before {
+  content: "\ef51";
+}
+.cobi-settings-outline:before {
+  content: "\ef52";
+}
+.cobi-share-duotone:before {
+  content: "\ef53";
+}
+.cobi-share-duotone:after {
+  content: "\ef54";
+}
+.cobi-share-fill:before {
+  content: "\ef55";
+}
+.cobi-share-outline:before {
+  content: "\ef56";
+}
+.cobi-shield-cross-duotone:before {
+  content: "\ef57";
+}
+.cobi-shield-cross-duotone:after {
+  content: "\ef58";
+}
+.cobi-shield-cross-fill:before {
+  content: "\ef59";
+}
+.cobi-shield-cross-outline:before {
+  content: "\ef5a";
+}
+.cobi-shield-duotone:before {
+  content: "\ef5b";
+}
+.cobi-shield-duotone:after {
+  content: "\ef5c";
+}
+.cobi-shield-fill:before {
+  content: "\ef5d";
+}
+.cobi-shield-outline:before {
+  content: "\ef5e";
+}
+.cobi-shield-search-duotone:before {
+  content: "\ef5f";
+}
+.cobi-shield-search-duotone:after {
+  content: "\ef60";
+}
+.cobi-shield-search-fill:before {
+  content: "\ef61";
+}
+.cobi-shield-search-outline:before {
+  content: "\ef62";
+}
+.cobi-shield-security-duotone:before {
+  content: "\ef63";
+}
+.cobi-shield-security-duotone:after {
+  content: "\ef64";
+}
+.cobi-shield-security-fill:before {
+  content: "\ef65";
+}
+.cobi-shield-security-outline:before {
+  content: "\ef66";
+}
+.cobi-shield-slash-duotone:before {
+  content: "\ef67";
+}
+.cobi-shield-slash-duotone:after {
+  content: "\ef68";
+}
+.cobi-shield-slash-fill:before {
+  content: "\ef69";
+}
+.cobi-shield-slash-outline:before {
+  content: "\ef6a";
+}
+.cobi-shield-tick-duotone:before {
+  content: "\ef6b";
+}
+.cobi-shield-tick-duotone:after {
+  content: "\ef6c";
+}
+.cobi-shield-tick-fill:before {
+  content: "\ef6d";
+}
+.cobi-shield-tick-outline:before {
+  content: "\ef6e";
+}
+.cobi-shop-add-duotone:before {
+  content: "\ef6f";
+}
+.cobi-shop-add-duotone:after {
+  content: "\ef70";
+
+  opacity: 0.6;
+}
+.cobi-shop-add-duotone .path3:before {
+  content: "\ef71";
+}
+.cobi-shop-add-fill:before {
+  content: "\ef72";
+}
+.cobi-shop-add-outline:before {
+  content: "\ef73";
+}
+.cobi-shop-duotone:before {
+  content: "\ef74";
+}
+.cobi-shop-duotone:after {
+  content: "\ef75";
+
+  opacity: 0.6;
+}
+.cobi-shop-duotone .path3:before {
+  content: "\ef76";
+}
+.cobi-shop-fill:before {
+  content: "\ef77";
+}
+.cobi-shop-outline:before {
+  content: "\ef78";
+}
+.cobi-shopping-bag-duotone:before {
+  content: "\ef79";
+}
+.cobi-shopping-bag-duotone:after {
+  content: "\ef7a";
+}
+.cobi-shopping-bag-fill:before {
+  content: "\ef7b";
+}
+.cobi-shopping-bag-outline:before {
+  content: "\ef7c";
+}
+.cobi-shopping-cart-duotone:before {
+  content: "\ef7d";
+}
+.cobi-shopping-cart-duotone:after {
+  content: "\ef7e";
+}
+.cobi-shopping-cart-fill:before {
+  content: "\ef7f";
+}
+.cobi-shopping-cart-outline:before {
+  content: "\ef80";
+}
+.cobi-shop-remove-duotone:before {
+  content: "\ef81";
+}
+.cobi-shop-remove-duotone:after {
+  content: "\ef82";
+
+  opacity: 0.6;
+}
+.cobi-shop-remove-duotone .path3:before {
+  content: "\ef83";
+}
+.cobi-shop-remove-fill:before {
+  content: "\ef84";
+}
+.cobi-shop-remove-outline:before {
+  content: "\ef85";
+}
+.cobi-signpost-duotone:before {
+  content: "\ef86";
+}
+.cobi-signpost-duotone:after {
+  content: "\ef87";
+}
+.cobi-signpost-fill:before {
+  content: "\ef88";
+}
+.cobi-signpost-outline:before {
+  content: "\ef89";
+}
+.cobi-slack-duotone:before {
+  content: "\ef8a";
+}
+.cobi-slack-duotone:after {
+  content: "\ef8b";
+}
+.cobi-slack-fill:before {
+  content: "\ef8c";
+}
+.cobi-slack-outline:before {
+  content: "\ef8d";
+}
+.cobi-slash-duotone:before {
+  content: "\ef8e";
+}
+.cobi-slash-duotone:after {
+  content: "\ef8f";
+}
+.cobi-slash-fill:before {
+  content: "\ef90";
+}
+.cobi-slash-outline:before {
+  content: "\ef91";
+}
+.cobi-smart-car-duotone:before {
+  content: "\ef92";
+}
+.cobi-smart-car-duotone:after {
+  content: "\ef93";
+}
+.cobi-smart-car-fill:before {
+  content: "\ef94";
+}
+.cobi-smart-car-outline:before {
+  content: "\ef95";
+}
+.cobi-smart-home-duotone:before {
+  content: "\ef96";
+}
+.cobi-smart-home-duotone:after {
+  content: "\ef97";
+}
+.cobi-smart-home-fill:before {
+  content: "\ef98";
+}
+.cobi-smart-home-outline:before {
+  content: "\ef99";
+}
+.cobi-smileys-duotone:before {
+  content: "\ef9a";
+}
+.cobi-smileys-duotone:after {
+  content: "\ef9b";
+}
+.cobi-smileys-fill:before {
+  content: "\ef9c";
+}
+.cobi-smileys-outline:before {
+  content: "\ef9d";
+}
+.cobi-snapchat-duotone:before {
+  content: "\ef9e";
+}
+.cobi-snapchat-duotone:after {
+  content: "\ef9f";
+}
+.cobi-snapchat-fill:before {
+  content: "\efa0";
+}
+.cobi-snapchat-outline:before {
+  content: "\efa1";
+}
+.cobi-sort-duotone:before {
+  content: "\efa2";
+}
+.cobi-sort-duotone:after {
+  content: "\efa3";
+}
+.cobi-sort-fill:before {
+  content: "\efa4";
+}
+.cobi-sort-outline:before {
+  content: "\efa5";
+}
+.cobi-sound-duotone:before {
+  content: "\efa6";
+}
+.cobi-sound-duotone:after {
+  content: "\efa7";
+}
+.cobi-sound-outline:before {
+  content: "\efa8";
+}
+.cobi-speedometer-duotone:before {
+  content: "\efa9";
+}
+.cobi-speedometer-duotone:after {
+  content: "\efaa";
+}
+.cobi-speedometer-fill:before {
+  content: "\efab";
+}
+.cobi-speedometer-outline:before {
+  content: "\efac";
+}
+.cobi-star-1-duotone:before {
+  content: "\efad";
+}
+.cobi-star-1-duotone:after {
+  content: "\efae";
+}
+.cobi-star-1-fill:before {
+  content: "\efaf";
+}
+.cobi-star-1-outline:before {
+  content: "\efb0";
+}
+.cobi-star-duotone:before {
+  content: "\efb1";
+}
+.cobi-star-duotone:after {
+  content: "\efb2";
+}
+.cobi-star-fill:before {
+  content: "\efb3";
+}
+.cobi-star-outline:before {
+  content: "\efb4";
+}
+.cobi-star-slash-duotone:before {
+  content: "\efb5";
+}
+.cobi-star-slash-duotone:after {
+  content: "\efb6";
+}
+.cobi-star-slash-fill:before {
+  content: "\efb7";
+}
+.cobi-star-slash-outline:before {
+  content: "\efb8";
+}
+.cobi-stickynote-duotone:before {
+  content: "\efb9";
+}
+.cobi-stickynote-duotone:after {
+  content: "\efba";
+}
+.cobi-stickynote-fill:before {
+  content: "\efbb";
+}
+.cobi-stickynote-outline:before {
+  content: "\efbc";
+}
+.cobi-stop-circle-duotone:before {
+  content: "\efbd";
+}
+.cobi-stop-circle-duotone:after {
+  content: "\efbe";
+}
+.cobi-stop-circle-fill:before {
+  content: "\efbf";
+}
+.cobi-stop-circle-outline:before {
+  content: "\efc0";
+}
+.cobi-support-duotone:before {
+  content: "\efc1";
+}
+.cobi-support-duotone:after {
+  content: "\efc2";
+}
+.cobi-support-fill:before {
+  content: "\efc3";
+}
+.cobi-support-outline:before {
+  content: "\efc4";
+}
+.cobi-tag-2-duotone:before {
+  content: "\efc5";
+}
+.cobi-tag-2-duotone:after {
+  content: "\efc6";
+}
+.cobi-tag-2-fill:before {
+  content: "\efc7";
+}
+.cobi-tag-2-outline:before {
+  content: "\efc8";
+}
+.cobi-tag-cross-duotone:before {
+  content: "\efc9";
+}
+.cobi-tag-cross-duotone:after {
+  content: "\efca";
+}
+.cobi-tag-cross-fill:before {
+  content: "\efcb";
+}
+.cobi-tag-cross-outline:before {
+  content: "\efcc";
+}
+.cobi-tag-duotone:before {
+  content: "\efcd";
+}
+.cobi-tag-duotone:after {
+  content: "\efce";
+}
+.cobi-tag-fill:before {
+  content: "\efcf";
+}
+.cobi-tag-outline:before {
+  content: "\efd0";
+}
+.cobi-tag-right-duotone:before {
+  content: "\efd1";
+}
+.cobi-tag-right-duotone:after {
+  content: "\efd2";
+}
+.cobi-tag-right-fill:before {
+  content: "\efd3";
+}
+.cobi-tag-right-outline:before {
+  content: "\efd4";
+}
+.cobi-tag-user-duotone:before {
+  content: "\efd5";
+}
+.cobi-tag-user-duotone:after {
+  content: "\efd6";
+}
+.cobi-tag-user-fill:before {
+  content: "\efd7";
+}
+.cobi-tag-user-outline:before {
+  content: "\efd8";
+}
+.cobi-task-duotone:before {
+  content: "\efd9";
+}
+.cobi-task-duotone:after {
+  content: "\efda";
+}
+.cobi-task-fill:before {
+  content: "\efdb";
+}
+.cobi-task-outline:before {
+  content: "\efdc";
+}
+.cobi-task-square-duotone:before {
+  content: "\efdd";
+}
+.cobi-task-square-duotone:after {
+  content: "\efde";
+}
+.cobi-task-square-fill:before {
+  content: "\efdf";
+}
+.cobi-task-square-outline:before {
+  content: "\efe0";
+}
+.cobi-teacher-duotone:before {
+  content: "\efe1";
+}
+.cobi-teacher-duotone:after {
+  content: "\efe2";
+}
+.cobi-teacher-fill:before {
+  content: "\efe3";
+}
+.cobi-teacher-outline:before {
+  content: "\efe4";
+}
+.cobi-tick-circle-duotone:before {
+  content: "\efe5";
+}
+.cobi-tick-circle-duotone:after {
+  content: "\efe6";
+}
+.cobi-tick-circle-fill:before {
+  content: "\efe7";
+}
+.cobi-tick-circle-outline:before {
+  content: "\efe8";
+}
+.cobi-tick-square-duotone:before {
+  content: "\efe9";
+}
+.cobi-tick-square-duotone:after {
+  content: "\efea";
+}
+.cobi-tick-square-fill:before {
+  content: "\efeb";
+}
+.cobi-tick-square-outline:before {
+  content: "\efec";
+}
+.cobi-timer-duotone:before {
+  content: "\efed";
+}
+.cobi-timer-duotone:after {
+  content: "\efee";
+}
+.cobi-timer-fill:before {
+  content: "\efef";
+}
+.cobi-timer-outline:before {
+  content: "\eff0";
+}
+.cobi-toggle-off-circle-duotone:before {
+  content: "\eff1";
+}
+.cobi-toggle-off-circle-duotone:after {
+  content: "\eff2";
+}
+.cobi-toggle-off-circle-fill:before {
+  content: "\eff3";
+}
+.cobi-toggle-off-circle-outline:before {
+  content: "\eff4";
+}
+.cobi-toggle-off-duotone:before {
+  content: "\eff5";
+}
+.cobi-toggle-off-duotone:after {
+  content: "\eff6";
+}
+.cobi-toggle-off-fill:before {
+  content: "\eff7";
+}
+.cobi-toggle-off-outline:before {
+  content: "\eff8";
+}
+.cobi-toggle-on-circle-duotone:before {
+  content: "\eff9";
+}
+.cobi-toggle-on-circle-duotone:after {
+  content: "\effa";
+}
+.cobi-toggle-on-circle-fill:before {
+  content: "\effb";
+}
+.cobi-toggle-on-circle-outline:before {
+  content: "\effc";
+}
+.cobi-toggle-on-duotone:before {
+  content: "\effd";
+}
+.cobi-toggle-on-duotone:after {
+  content: "\effe";
+}
+.cobi-toggle-on-fill:before {
+  content: "\efff";
+}
+.cobi-toggle-on-outline:before {
+  content: "\f000";
+}
+.cobi-transaction-minus-duotone:before {
+  content: "\f001";
+}
+.cobi-transaction-minus-duotone:after {
+  content: "\f002";
+}
+.cobi-transaction-minus-fill:before {
+  content: "\f003";
+}
+.cobi-transaction-minus-outline:before {
+  content: "\f004";
+}
+.cobi-trash-duotone:before {
+  content: "\f005";
+}
+.cobi-trash-duotone:after {
+  content: "\f006";
+}
+.cobi-trash-fill:before {
+  content: "\f007";
+}
+.cobi-trash-outline:before {
+  content: "\f008";
+}
+.cobi-tree-duotone:before {
+  content: "\f009";
+}
+.cobi-tree-duotone:after {
+  content: "\f00a";
+}
+.cobi-tree-duotone .path3:before {
+  content: "\f00b";
+}
+.cobi-truck-duotone:before {
+  content: "\f00c";
+}
+.cobi-truck-duotone:after {
+  content: "\f00d";
+}
+.cobi-truck-fast-duotone:before {
+  content: "\f00e";
+}
+.cobi-truck-fast-duotone:after {
+  content: "\f00f";
+}
+.cobi-truck-fast-fill:before {
+  content: "\f010";
+}
+.cobi-truck-fast-outline:before {
+  content: "\f011";
+}
+.cobi-truck-fill:before {
+  content: "\f012";
+}
+.cobi-truck-outline:before {
+  content: "\f013";
+}
+.cobi-truck-remove-duotone:before {
+  content: "\f014";
+}
+.cobi-truck-remove-duotone:after {
+  content: "\f015";
+}
+.cobi-truck-remove-fill:before {
+  content: "\f016";
+}
+.cobi-truck-remove-outline:before {
+  content: "\f017";
+}
+.cobi-truck-tick-duotone:before {
+  content: "\f018";
+}
+.cobi-truck-tick-duotone:after {
+  content: "\f019";
+}
+.cobi-truck-tick-fill:before {
+  content: "\f01a";
+}
+.cobi-truck-tick-outline:before {
+  content: "\f01b";
+}
+.cobi-truck-time-duotone:before {
+  content: "\f01c";
+}
+.cobi-truck-time-duotone:after {
+  content: "\f01d";
+}
+.cobi-truck-time-fill:before {
+  content: "\f01e";
+}
+.cobi-truck-time-outline:before {
+  content: "\f01f";
+}
+.cobi-trush-square-duotone:before {
+  content: "\f020";
+}
+.cobi-trush-square-duotone:after {
+  content: "\f021";
+}
+.cobi-trush-square-fill:before {
+  content: "\f022";
+}
+.cobi-trush-square-outline:before {
+  content: "\f023";
+}
+.cobi-twitch-duotone:before {
+  content: "\f024";
+}
+.cobi-twitch-duotone:after {
+  content: "\f025";
+}
+.cobi-twitch-fill:before {
+  content: "\f026";
+}
+.cobi-twitch-outline:before {
+  content: "\f027";
+}
+.cobi-undo-duotone:before {
+  content: "\f028";
+}
+.cobi-undo-duotone:after {
+  content: "\f029";
+}
+.cobi-undo-fill:before {
+  content: "\f02a";
+}
+.cobi-undo-outline:before {
+  content: "\f02b";
+}
+.cobi-unlock-duotone:before {
+  content: "\f02c";
+}
+.cobi-unlock-duotone:after {
+  content: "\f02d";
+}
+.cobi-unlock-fill:before {
+  content: "\f02e";
+}
+.cobi-unlock-outline:before {
+  content: "\f02f";
+}
+.cobi-usd-coin-usdc-duotone:before {
+  content: "\f030";
+}
+.cobi-usd-coin-usdc-duotone:after {
+  content: "\f031";
+}
+.cobi-user-1-duotone:before {
+  content: "\f032";
+}
+.cobi-user-1-duotone:after {
+  content: "\f033";
+}
+.cobi-user-1-fill:before {
+  content: "\f034";
+}
+.cobi-user-1-outline:before {
+  content: "\f035";
+}
+.cobi-user-add-1-duotone:before {
+  content: "\f036";
+}
+.cobi-user-add-1-duotone:after {
+  content: "\f037";
+}
+.cobi-user-add-1-fill:before {
+  content: "\f038";
+}
+.cobi-user-add-1-outline:before {
+  content: "\f039";
+}
+.cobi-user-add-duotone:before {
+  content: "\f03a";
+}
+.cobi-user-add-duotone:after {
+  content: "\f03b";
+}
+.cobi-user-add-fill:before {
+  content: "\f03c";
+}
+.cobi-user-add-outline:before {
+  content: "\f03d";
+}
+.cobi-user-circle-duotone:before {
+  content: "\f03e";
+}
+.cobi-user-circle-duotone:after {
+  content: "\f03f";
+}
+.cobi-user-circle-fill:before {
+  content: "\f040";
+}
+.cobi-user-circle-outline:before {
+  content: "\f041";
+}
+.cobi-user-cirlce-add-duotone:before {
+  content: "\f042";
+}
+.cobi-user-cirlce-add-duotone:after {
+  content: "\f043";
+}
+.cobi-user-cirlce-add-fill:before {
+  content: "\f044";
+}
+.cobi-user-cirlce-add-outline:before {
+  content: "\f045";
+}
+.cobi-user-duotone:before {
+  content: "\f046";
+}
+.cobi-user-duotone:after {
+  content: "\f047";
+}
+.cobi-user-edit-duotone:before {
+  content: "\f048";
+}
+.cobi-user-edit-duotone:after {
+  content: "\f049";
+}
+.cobi-user-edit-fill:before {
+  content: "\f04a";
+}
+.cobi-user-edit-outline:before {
+  content: "\f04b";
+}
+.cobi-user-fill:before {
+  content: "\f04c";
+}
+.cobi-user-minus-1-duotone:before {
+  content: "\f04d";
+}
+.cobi-user-minus-1-duotone:after {
+  content: "\f04e";
+}
+.cobi-user-minus-1-fill:before {
+  content: "\f04f";
+}
+.cobi-user-minus-1-outline:before {
+  content: "\f050";
+}
+.cobi-user-minus-duotone:before {
+  content: "\f051";
+}
+.cobi-user-minus-duotone:after {
+  content: "\f052";
+}
+.cobi-user-minus-fill:before {
+  content: "\f053";
+}
+.cobi-user-minus-outline:before {
+  content: "\f054";
+}
+.cobi-user-octagon-duotone:before {
+  content: "\f055";
+}
+.cobi-user-octagon-duotone:after {
+  content: "\f056";
+}
+.cobi-user-octagon-fill:before {
+  content: "\f057";
+}
+.cobi-user-octagon-outline:before {
+  content: "\f058";
+}
+.cobi-user-outline:before {
+  content: "\f059";
+}
+.cobi-user-remove-1-duotone:before {
+  content: "\f05a";
+}
+.cobi-user-remove-1-duotone:after {
+  content: "\f05b";
+}
+.cobi-user-remove-1-fill:before {
+  content: "\f05c";
+}
+.cobi-user-remove-1-outline:before {
+  content: "\f05d";
+}
+.cobi-user-remove-duotone:before {
+  content: "\f05e";
+}
+.cobi-user-remove-duotone:after {
+  content: "\f05f";
+}
+.cobi-user-remove-fill:before {
+  content: "\f060";
+}
+.cobi-user-remove-outline:before {
+  content: "\f061";
+}
+.cobi-user-search-duotone:before {
+  content: "\f062";
+}
+.cobi-user-search-duotone:after {
+  content: "\f063";
+}
+.cobi-user-search-fill:before {
+  content: "\f064";
+}
+.cobi-user-search-outline:before {
+  content: "\f065";
+}
+.cobi-user-square-duotone:before {
+  content: "\f066";
+}
+.cobi-user-square-duotone:after {
+  content: "\f067";
+}
+.cobi-user-square-fill:before {
+  content: "\f068";
+}
+.cobi-user-square-outline:before {
+  content: "\f069";
+}
+.cobi-user-tag-duotone:before {
+  content: "\f06a";
+}
+.cobi-user-tag-duotone:after {
+  content: "\f06b";
+}
+.cobi-user-tag-fill:before {
+  content: "\f06c";
+}
+.cobi-user-tag-outline:before {
+  content: "\f06d";
+}
+.cobi-user-tick-1-duotone:before {
+  content: "\f06e";
+}
+.cobi-user-tick-1-duotone:after {
+  content: "\f06f";
+}
+.cobi-user-tick-1-fill:before {
+  content: "\f070";
+}
+.cobi-user-tick-1-outline:before {
+  content: "\f071";
+}
+.cobi-user-tick-duotone:before {
+  content: "\f072";
+}
+.cobi-user-tick-duotone:after {
+  content: "\f073";
+}
+.cobi-user-tick-fill:before {
+  content: "\f074";
+}
+.cobi-user-tick-outline:before {
+  content: "\f075";
+}
+.cobi-verify-duotone:before {
+  content: "\f076";
+}
+.cobi-verify-duotone:after {
+  content: "\f077";
+}
+.cobi-verify-fill:before {
+  content: "\f078";
+}
+.cobi-verify-outline:before {
+  content: "\f079";
+}
+.cobi-video-circle-duotone:before {
+  content: "\f07a";
+}
+.cobi-video-circle-duotone:after {
+  content: "\f07b";
+}
+.cobi-video-duotone:before {
+  content: "\f07c";
+}
+.cobi-video-duotone:after {
+  content: "\f07d";
+}
+.cobi-video-fill:before {
+  content: "\f07e";
+}
+.cobi-video-octagon-duotone:before {
+  content: "\f07f";
+}
+.cobi-video-octagon-duotone:after {
+  content: "\f080";
+}
+.cobi-video-outline:before {
+  content: "\f081";
+}
+.cobi-video-slash-duotone:before {
+  content: "\f082";
+}
+.cobi-video-slash-duotone:after {
+  content: "\f083";
+}
+.cobi-video-slash-fill:before {
+  content: "\f084";
+}
+.cobi-video-slash-outline:before {
+  content: "\f085";
+}
+.cobi-video-square-duotone:before {
+  content: "\f086";
+}
+.cobi-video-square-duotone:after {
+  content: "\f087";
+}
+.cobi-voice-cricle-duotone:before {
+  content: "\f088";
+}
+.cobi-voice-cricle-duotone:after {
+  content: "\f089";
+}
+.cobi-voice-cricle-fill:before {
+  content: "\f08a";
+}
+.cobi-voice-cricle-outline:before {
+  content: "\f08b";
+}
+.cobi-voice-square-duotone:before {
+  content: "\f08c";
+}
+.cobi-voice-square-duotone:after {
+  content: "\f08d";
+}
+.cobi-voice-square-fill:before {
+  content: "\f08e";
+}
+.cobi-voice-square-outline:before {
+  content: "\f08f";
+}
+.cobi-volume-cross-duotone:before {
+  content: "\f090";
+}
+.cobi-volume-cross-duotone:after {
+  content: "\f091";
+}
+.cobi-volume-cross-fill:before {
+  content: "\f092";
+}
+.cobi-volume-cross-outline:before {
+  content: "\f093";
+}
+.cobi-volume-high-duotone:before {
+  content: "\f094";
+}
+.cobi-volume-high-duotone:after {
+  content: "\f095";
+}
+.cobi-volume-high-fill:before {
+  content: "\f096";
+}
+.cobi-volume-high-outline:before {
+  content: "\f097";
+}
+.cobi-volume-low-1-duotone:before {
+  content: "\f098";
+}
+.cobi-volume-low-1-duotone:after {
+  content: "\f099";
+}
+.cobi-volume-low-1-fill:before {
+  content: "\f09a";
+}
+.cobi-volume-low-1-outline:before {
+  content: "\f09b";
+}
+.cobi-volume-low-duotone:before {
+  content: "\f09c";
+}
+.cobi-volume-low-duotone:after {
+  content: "\f09d";
+}
+.cobi-volume-low-fill:before {
+  content: "\f09e";
+}
+.cobi-volume-low-outline:before {
+  content: "\f09f";
+}
+.cobi-volume-mute-duotone:before {
+  content: "\f0a0";
+}
+.cobi-volume-mute-duotone:after {
+  content: "\f0a1";
+}
+.cobi-volume-mute-fill:before {
+  content: "\f0a2";
+}
+.cobi-volume-mute-outline:before {
+  content: "\f0a3";
+}
+.cobi-volume-slash-duotone:before {
+  content: "\f0a4";
+}
+.cobi-volume-slash-duotone:after {
+  content: "\f0a5";
+}
+.cobi-volume-slash-fill:before {
+  content: "\f0a6";
+}
+.cobi-volume-slash-outline:before {
+  content: "\f0a7";
+}
+.cobi-volume-up-duotone:before {
+  content: "\f0a8";
+}
+.cobi-volume-up-duotone:after {
+  content: "\f0a9";
+}
+.cobi-volume-up-fill:before {
+  content: "\f0aa";
+}
+.cobi-volume-up-outline:before {
+  content: "\f0ab";
+}
+.cobi-wallet-1-duotone:before {
+  content: "\f0ac";
+}
+.cobi-wallet-1-duotone:after {
+  content: "\f0ad";
+
+  opacity: 0.8;
+}
+.cobi-wallet-1-duotone .path3:before {
+  content: "\f0ae";
+
+  opacity: 0.6;
+}
+.cobi-wallet-1-duotone .path4:before {
+  content: "\f0af";
+}
+.cobi-wallet-1-fill:before {
+  content: "\f0b0";
+}
+.cobi-wallet-1-outline:before {
+  content: "\f0b1";
+}
+.cobi-wallet-2-duotone:before {
+  content: "\f0b2";
+}
+.cobi-wallet-2-duotone:after {
+  content: "\f0b3";
+}
+.cobi-wallet-2-fill:before {
+  content: "\f0b4";
+}
+.cobi-wallet-2-outline:before {
+  content: "\f0b5";
+}
+.cobi-wallet-3-duotone:before {
+  content: "\f0b6";
+}
+.cobi-wallet-3-duotone:after {
+  content: "\f0b7";
+}
+.cobi-wallet-3-fill:before {
+  content: "\f0b8";
+}
+.cobi-wallet-3-outline:before {
+  content: "\f0b9";
+}
+.cobi-wallet-add-1-duotone:before {
+  content: "\f0ba";
+}
+.cobi-wallet-add-1-duotone:after {
+  content: "\f0bb";
+}
+.cobi-wallet-add-1-duotone .path3:before {
+  content: "\f0bc";
+
+  opacity: 0.8;
+}
+.cobi-wallet-add-1-duotone .path4:before {
+  content: "\f0bd";
+
+  opacity: 0.6;
+}
+.cobi-wallet-add-1-duotone .path5:before {
+  content: "\f0be";
+}
+.cobi-wallet-add-1-fill:before {
+  content: "\f0bf";
+}
+.cobi-wallet-add-1-outline:before {
+  content: "\f0c0";
+}
+.cobi-wallet-add-duotone:before {
+  content: "\f0c1";
+}
+.cobi-wallet-add-duotone:after {
+  content: "\f0c2";
+}
+.cobi-wallet-add-fill:before {
+  content: "\f0c3";
+}
+.cobi-wallet-add-outline:before {
+  content: "\f0c4";
+}
+.cobi-wallet-check-duotone:before {
+  content: "\f0c5";
+}
+.cobi-wallet-check-duotone:after {
+  content: "\f0c6";
+}
+.cobi-wallet-check-fill:before {
+  content: "\f0c7";
+}
+.cobi-wallet-check-outline:before {
+  content: "\f0c8";
+}
+.cobi-wallet-duotone:before {
+  content: "\f0c9";
+}
+.cobi-wallet-duotone:after {
+  content: "\f0ca";
+}
+.cobi-wallet-fill:before {
+  content: "\f0cb";
+}
+.cobi-wallet-minus-duotone:before {
+  content: "\f0cc";
+}
+.cobi-wallet-minus-duotone:after {
+  content: "\f0cd";
+}
+.cobi-wallet-minus-duotone .path3:before {
+  content: "\f0ce";
+
+  opacity: 0.8;
+}
+.cobi-wallet-minus-duotone .path4:before {
+  content: "\f0cf";
+
+  opacity: 0.6;
+}
+.cobi-wallet-minus-duotone .path5:before {
+  content: "\f0d0";
+}
+.cobi-wallet-minus-fill:before {
+  content: "\f0d1";
+}
+.cobi-wallet-minus-outline:before {
+  content: "\f0d2";
+}
+.cobi-wallet-money-duotone:before {
+  content: "\f0d3";
+}
+.cobi-wallet-money-duotone:after {
+  content: "\f0d4";
+}
+.cobi-wallet-money-fill:before {
+  content: "\f0d5";
+}
+.cobi-wallet-outline:before {
+  content: "\f0d6";
+}
+.cobi-wallet-remove-duotone:before {
+  content: "\f0d7";
+}
+.cobi-wallet-remove-duotone:after {
+  content: "\f0d8";
+}
+.cobi-wallet-remove-fill:before {
+  content: "\f0d9";
+}
+.cobi-wallet-remove-outline:before {
+  content: "\f0da";
+}
+.cobi-wallet-search-duotone:before {
+  content: "\f0db";
+}
+.cobi-wallet-search-duotone:after {
+  content: "\f0dc";
+}
+.cobi-wallet-search-fill:before {
+  content: "\f0dd";
+}
+.cobi-wallet-search-outline:before {
+  content: "\f0de";
+}
+.cobi-warning-2-duotone:before {
+  content: "\f0df";
+}
+.cobi-warning-2-duotone:after {
+  content: "\f0e0";
+}
+.cobi-warning-2-fill:before {
+  content: "\f0e1";
+}
+.cobi-warning-2-outline:before {
+  content: "\f0e2";
+}
+.cobi-whatsapp-duotone:before {
+  content: "\f0e3";
+}
+.cobi-whatsapp-duotone:after {
+  content: "\f0e4";
+}
+.cobi-whatsapp-fill:before {
+  content: "\f0e5";
+}
+.cobi-whatsapp-outline:before {
+  content: "\f0e6";
+}
+.cobi-wifi-duotone:before {
+  content: "\f0e7";
+}
+.cobi-wifi-duotone:after {
+  content: "\f0e8";
+}
+.cobi-wifi-outline:before {
+  content: "\f0e9";
+}
+.cobi-wifi-square-duotone:before {
+  content: "\f0ea";
+}
+.cobi-wifi-square-duotone:after {
+  content: "\f0eb";
+}
+.cobi-wifi-square-fill:before {
+  content: "\f0ec";
+}
+.cobi-wifi-square-outline:before {
+  content: "\f0ed";
+}
+.cobi-windows-duotone:before {
+  content: "\f0ee";
+}
+.cobi-windows-duotone:after {
+  content: "\f0ef";
+}
+.cobi-windows-fill:before {
+  content: "\f0f0";
+}
+.cobi-windows-outline:before {
+  content: "\f0f1";
+}
+.cobi-youtube-duotone:before {
+  content: "\f0f2";
+}
+.cobi-youtube-duotone:after {
+  content: "\f0f3";
+}
+.cobi-youtube-fill:before {
+  content: "\f0f4";
+}
+.cobi-youtube-outline:before {
+  content: "\f0f5";
+}
+.cobi-zoom-duotone:before {
+  content: "\f0f6";
+}
+.cobi-zoom-duotone:after {
+  content: "\f0f7";
+}
+.cobi-zoom-fill:before {
+  content: "\f0f8";
+}
+.cobi-zoom-outline:before {
+  content: "\f0f9";
+}
