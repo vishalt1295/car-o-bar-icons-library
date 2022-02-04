@@ -718,6 +718,7 @@
 }
 .cobi-bhim-1-fill:before {
   content: "\e9de";
+  position: absolute;
 }
 .cobi-bhim-1-fill:after {
   content: "\e9df";
@@ -2039,6 +2040,7 @@
 }
 .cobi-empty-wallet-add-duotone:before {
   content: "\eb95";
+  position: inherit;
 }
 .cobi-empty-wallet-add-duotone:after {
   content: "\eb96";
@@ -4433,9 +4435,9 @@
 .cobi-repeat-duotone:after {
   content: "\eeb1";
 }
-.cobi-repeat-fill-outline:before {
+/*.cobi-repeat-fill-outline:before {
   content: "\eeb2";
-}
+}*/
 .cobi-repeat-outline:before {
   content: "\eeb3";
 }
@@ -5004,34 +5006,32 @@
 .cobi-shield-tick-outline:before {
   content: "\ef6e";
 }
-.cobi-shop-add-duotone:before {
+/*.cobi-shop-add-duotone:before {
   content: "\ef6f";
 }
 .cobi-shop-add-duotone:after {
   content: "\ef70";
-
   opacity: 0.6;
 }
 .cobi-shop-add-duotone .path3:before {
   content: "\ef71";
-}
+}*/
 .cobi-shop-add-fill:before {
   content: "\ef72";
 }
 .cobi-shop-add-outline:before {
   content: "\ef73";
 }
-.cobi-shop-duotone:before {
+/*.cobi-shop-duotone:before {
   content: "\ef74";
 }
 .cobi-shop-duotone:after {
   content: "\ef75";
-
   opacity: 0.6;
 }
 .cobi-shop-duotone .path3:before {
   content: "\ef76";
-}
+}*/
 .cobi-shop-fill:before {
   content: "\ef77";
 }
@@ -5062,7 +5062,7 @@
 .cobi-shopping-cart-outline:before {
   content: "\ef80";
 }
-.cobi-shop-remove-duotone:before {
+/*.cobi-shop-remove-duotone:before {
   content: "\ef81";
 }
 .cobi-shop-remove-duotone:after {
@@ -5072,7 +5072,7 @@
 }
 .cobi-shop-remove-duotone .path3:before {
   content: "\ef83";
-}
+}*/
 .cobi-shop-remove-fill:before {
   content: "\ef84";
 }
@@ -5961,7 +5961,7 @@
 .cobi-volume-up-outline:before {
   content: "\f0ab";
 }
-.cobi-wallet-1-duotone:before {
+/*.cobi-wallet-1-duotone:before {
   content: "\f0ac";
 }
 .cobi-wallet-1-duotone:after {
@@ -5976,7 +5976,7 @@
 }
 .cobi-wallet-1-duotone .path4:before {
   content: "\f0af";
-}
+}*/
 .cobi-wallet-1-fill:before {
   content: "\f0b0";
 }
@@ -6007,12 +6007,12 @@
 .cobi-wallet-3-outline:before {
   content: "\f0b9";
 }
-.cobi-wallet-add-1-duotone:before {
+/*.cobi-wallet-add-1-duotone:before {
   content: "\f0ba";
 }
 .cobi-wallet-add-1-duotone:after {
   content: "\f0bb";
-}
+}*/
 .cobi-wallet-add-1-duotone .path3:before {
   content: "\f0bc";
 
@@ -6065,12 +6065,12 @@
 .cobi-wallet-fill:before {
   content: "\f0cb";
 }
-.cobi-wallet-minus-duotone:before {
+/*.cobi-wallet-minus-duotone:before {
   content: "\f0cc";
 }
 .cobi-wallet-minus-duotone:after {
   content: "\f0cd";
-}
+}*/
 .cobi-wallet-minus-duotone .path3:before {
   content: "\f0ce";
 

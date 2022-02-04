@@ -5,11 +5,13 @@
       <h4 class="mb-4 mt-2">Usage</h4>
       <div class="col-md-6">
         <div class="icon-demo d-flex justify-content-evenly">
-          <img src="../assets/icons/house-duotone.svg" />
+          
+          <i class="cobi-house-duotone"></i>
 
-          <img src="../assets/icons/house-fill.svg" />
+          <i class="cobi-house-fill"></i>
 
-          <img src="../assets/icons/house-outline.svg" />
+          <i class="cobi-house-outline"></i>
+
         </div>
         <div class="highlight">
           <ul class="list-unstyled usage">
