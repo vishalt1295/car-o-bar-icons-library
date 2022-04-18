@@ -2044,7 +2044,7 @@
 }
 .cobi-empty-wallet-add-duotone:after {
   content: "\eb96";
-  margin-left: -1.0419921875em;
+/*   margin-left: -1.0419921875em; */
 }
 .cobi-empty-wallet-add-fill:before {
   content: "\eb97";
@@ -4482,7 +4482,7 @@
 }
 .cobi-rupee-circle-duotone:after {
   content: "\eec1";
-  margin-left: -1.0419921875em;
+/*   margin-left: -1.0419921875em; */
 }
 .cobi-rupee-circle-fill:before {
   content: "\eec2";
@@ -4495,7 +4495,7 @@
 }
 .cobi-rupee-recive-duotone:after {
   content: "\eec5";
-  margin-left: -1.0419921875em;
+/*   margin-left: -1.0419921875em; */
 }
 .cobi-rupee-recive-fill:before {
   content: "\eec6";
@@ -4508,7 +4508,7 @@
 }
 .cobi-rupee-send-duotone:after {
   content: "\eec9";
-  margin-left: -1.0419921875em;
+/*   margin-left: -1.0419921875em; */
 }
 .cobi-rupee-send-fill:before {
   content: "\eeca";
@@ -4521,7 +4521,7 @@
 }
 .cobi-rupee-square-duotone:after {
   content: "\eecd";
-  margin-left: -1.0419921875em;
+/*   margin-left: -1.0419921875em; */
 }
 .cobi-rupee-square-fill:before {
   content: "\eece";
